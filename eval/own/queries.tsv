@@ -9,27 +9,27 @@ h03	paraphrase	What is the smallest dog breed?	hand
 h04	paraphrase	What is the largest dog breed?	hand
 h05	paraphrase	What is the state dog of Louisiana?	hand
 h06	paraphrase	What dog can't bark?	hand
-h07	paraphrase	What is the fastest dog breed?	hand
+h07	paraphrase	Which dog breeds have the best sense of smell?	hand
 h08	paraphrase	Which dog breeds have black tongues?	hand
 h09	paraphrase	What dog breeds don't have hair?	hand
 h10	paraphrase	Which dog breed is commonly used as a life guard?	hand
 c01	identifier	What was the Turnspit dog used for?	claude
-c02	identifier	How tall is a Schweizerischer Niederlaufhund?	claude
+c02	identifier	What were Lapphunds traditionally used for?	claude
 c03	identifier	What are the size varieties of the Poodle?	claude
-c04	identifier	When did the Pungsan dog become a national monument of North Korea?	claude
-c05	identifier	What animals does the Karelian Bear Dog hunt?	claude
+c04	paraphrase	Which dog breeds were designated natural or national monuments of Japan in the 1930s?	claude
+c05	paraphrase	Which dog breeds can climb trees?	claude
 c06	identifier	What does the name Český Fousek mean?	claude
-c07	identifier	What does the name Hovawart mean?	claude
-c08	identifier	Who created the Billy hound, and what is it named after?	claude
-c09	identifier	When was the Jämthund officially recognised as a breed?	claude
-c10	identifier	Which kennel clubs put the Toy Manchester Terrier in their Toy Group?	claude
+c07	paraphrase	Which Hungarian dog breeds have a corded coat?	claude
+c08	paraphrase	Which dog breeds have webbed feet?	claude
+c09	paraphrase	Which dog breeds have a ridge of hair growing the opposite way along their back?	claude
+c10	identifier	What kind of ears does the Toy Manchester Terrier have?	claude
 c11	mixed	Why is calling the Magyar agár a Hungarian greyhound a misnomer?	claude
-c12	mixed	St. Bernard: what work were these dogs first bred for in the Alps?	claude
-c13	mixed	Is the Staffordshire Bull Terrier the same breed as the Bull Terrier?	claude
-c14	mixed	Russian Toy: what became of the long-haired Moscow variety?	claude
+c12	mixed	St. Bernard: when did the Great St Bernard hospice get its first dogs?	claude
+c13	mixed	Do the Staffordshire Bull Terrier and the Bull Terrier look alike?	claude
+c14	paraphrase	Which dog breeds have extra toes?	claude
 c15	mixed	Dalmatian: why did firefighters keep these spotted dogs?	claude
-c16	mixed	Podenco Andaluz: which sizes and coat types are accepted?	claude
-c17	mixed	Maremmano-Abruzzese: what did Italian shepherds use these dogs for?	claude
+c16	identifier	What does the Podenco Valenciano hunt, and at what time of day?	claude
+c17	mixed	Which breeds were developed by crossing other dogs with the Karelian Bear Dog?	claude
 c18	paraphrase	Which extinct dog did Indigenous peoples of the Pacific Northwest coast raise so they could weave its fur?	claude
-c19	paraphrase	Which island nation's native forest dog was first shown internationally at a dog show in 2023?	claude
+c19	identifier	How is the Istrian Coarse-haired Hound different from the Istrian Shorthaired Hound?	claude
 c20	paraphrase	Is there a tiny Australian ratting terrier whose ears can stand up or fold at the tips?	claude

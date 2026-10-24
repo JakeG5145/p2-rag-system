@@ -150,8 +150,8 @@ How many queries, how many with origin `hand` and how many with origin `claude`,
 How did you decide that a document is relevant: write your relevance rule in two or three sentences, the way the brief does for the shared corpus.
 How did you find candidates (the systems' top 10, a keyword search, reading), and did you read every document before you labeled it?
 Your labels are binary (`rel` 1) unless you say otherwise: if you use graded labels, declare the scale here, for example 2 means the document answers the query fully and 1 means it helps.
-
-TODO: describe your gold set and your relevance rule.
+TODO: still needs to be finished
+There are 30 queries, 10 of which with the origin 'hand' and 20 with the origin 'claude'. Query Classes go here! An article is considered relevant if it states the dog breed has a trait which is asked for in the query (unless the question specifically asks for it, saying a dog has the highest trait in its weight class or region is not enough to be relevant). Several answers can be relevent unless the question only has one right answer (if a question is ambiguous, multiple answers can be given, even if it is a question that asks for one right answer). Unless the question overtly asks for one or the other average and the record held by one dog both count, for example the smallest dog question can be answered by chihuahua (the smallest on average) and yorkshire terrier (the smallest recorded).
 
 ---
 

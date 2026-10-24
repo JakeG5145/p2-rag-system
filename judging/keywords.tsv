@@ -5,27 +5,27 @@ h03	smallest (dog|breed)|world's smallest
 h04	largest (dog|breed)|tallest (dog|breed)|heaviest (dog|breed)
 h05	state dog|louisiana
 h06	(can'?n?o?t|unable to|does not|doesn't|rarely|seldom) bark|barkless|yodel
-h07	fastest|top speed|\d+ ?km/h|\d+ ?mph
+h07	sense of smell|olfact|scent hound|keen nose|ground-scent
 h08	(black|blue|blue-black|purple|bluish)[- ]?(black )?(tongue|tongued)|tongue is (black|blue)
 h09	hairless
 h10	lifeguard|life guard|life-?saving|water rescue|drown
 c01	turnspit
-c02	niederlaufhund
+c02	lapphund
 c03	poodle
-c04	pungsan
-c05	karelian bear dog
+c04	natural monument|national monument
+c05	climb
 c06	fousek
-c07	hovawart
-c08	\bbilly\b
-c09	j[äa]mthund
-c10	manchester terrier
+c07	\bcorded\b|\bcords\b|dreadlock
+c08	webbed
+c09	\bridge\b|ridgeback
+c10	toy manchester
 c11	magyar ag[áa]r|hungarian greyhound
-c12	st\.? bernard|saint bernard
-c13	bull terrier
-c14	russian toy|moscow long
+c12	hospice|first dogs
+c13	resembl|bull terrier
+c14	six toes|polydact|double dewclaw|extra toe|dewclaws
 c15	dalmatian
-c16	podenco
-c17	maremman
+c16	valenciano
+c17	karelian bear dog
 c18	wool dog|salish
-c19	philippine
+c19	istrian
 c20	miniature fox terrier|mini foxie
