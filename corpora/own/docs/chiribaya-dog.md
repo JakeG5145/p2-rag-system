@@ -1,0 +1,26 @@
+# Chiribaya Dog
+
+Chiribaya Dog
+
+The Chiribaya Dog (Spanish: perro Chiribaya) or Peruvian Shepherd Dog (perro pastor Peruano) is an ancient pre-Columbian breed of dog from the southwest of Peru. It has been established that it is a llama herding dog. Mummified remains of the breed have been discovered, dating from 900-1350 CE.
+The dog variety has been referred to in various Spanish-language documentaries under different terms, such as el perro pastor Chiribaya ('the Chiribaya shepherd dog') and pastor Peruano ('Peruvian shepherd'), though the ancient Peruvians did not keep sheep. Its original name is unknown (it has been referred to more ambiguously by the term perro Peruano or perro del Perú ('Peruvian dog', 'dog of Peru'), but this has also been applied to an ancient hairless variety, referred to in more detail as perro sin pelo del Perú, 'hairless dog of Peru', or the Peruvian Inca Orchid, a favorite in South American dog shows).
+
+Mummies
+The dogs were found buried in cemeteries next to 42 human mummies of the Chiribaya culture that flourished on the Ilo District, Moquegua Region, on the southern coast of Peru, who seem to have buried their pets with all the honors of a faithful friend and co-worker. The finding is due to the research of anthropologist Sonia Guillén, who specializes in the study of ancient mummies from prosperous pre-Columbian cultures from the Chachapoyas to the shores of Moquegua. The mummies date from the "late middle" period, c. 900 to 1350 CE.
+In the port area of Ilo is Mallqui Center (from the word for 'mummy' in the Quechua language), dedicated to research regarding Chiribaya culture. This society developed as a chiefdom. Their territory has a feature that is the dream of every archaeologist: its soil is extremely dry, and it contains large amounts of nitrates, which ensured the preservation of the physical remains of those who inhabited this place.
+Sonia Guillén argues that the tomb of a person reflects his or her social, political and religious position within their society. In the case of these dogs, the tombs suggest that, having completed a productive life within the Chiribaya civilization, they received good treatment, whether dead or alive.
+Martha Meier Miró Quesada, a journalist, producer and documentary filmmaker and her team were able to record in pictures the findings and Sonia Guillen's investigations and in 2006 produced a documentary titled El Perro Pastor Chiribaya ('The Chiribaya Shepherd Dog').
+
+Features
+Ermanno Maniero, president of the Kennel Club of Peru, and veterinary doctor Viviana Fernández of the National University of San Marcos thoroughly examined the mummies found and determined that these dogs were short-legged, and were longer than they were tall; had an abundant variety of hair colors that could vary between yellow and red, some with dark spots on the back or head; had cropped ears and falls; and had feet like those of a hare, allowing the animal to move on sand or soil with less effort, a quality that perhaps was important in the Chiribayas' environment.
+The BBC reported even more features: The dog was small, had a long snout, was beige in color, with long fur and resembled a small Golden Retriever.
+
+Grazing
+The Chiribayas developed a coastal economy, with the use of the fishing and other marine resources, but also engaged in agriculture, including intensive use of livestock. Textiles and petroglyphs realize the llama-focused livestock activity of Chiribaya people, which underlines the importance of the "shepherd" (herding) dog in their society. According to research conducted by geneticist Jane Wheeler, who worked in the middle valley of Ilo and studied the remains of the llamas and the alpacas in the region, the Chiribayas raised a type of llama that had the longest, finest hair, but it was ignored by the Spanish conquerors, who used these llamas as pack animals, causing their demise.
+"Having so many llamas, the Chiribayas needed herding dogs. Then, they became co-workers with the people so that their death produced honor", says Sonia Guillén.
+
+Lineage
+The mummies of the Chiribaya dogs led researchers to initially hypothesize that the variety's descendants remain to this day. This seemed anecdotally confirmed by the similarity between the preserved remains and many of the dogs living in Ilo port, Tambo Valley, and the city of Mollendo (Arequipa Department). The dog "Abdul", the watchdog of the facilities of the Mallqui Center, was thought to perhaps be a descendant of the Chiribaya dogs. Its yellow fur, drooping ears and short snout match the characteristics of the mummies. Martha Meier drew attention to this detail, saying that the local dogs called chusco match the known characteristics of a Chiribaya dog, so it would not be surprising that over the years, this has been spread throughout Peru: "What we do now is regain the purity of the breed of dog. So let's start working to gather DNA of dogs in the Ilo area for comparison with the mummies, and then begin a selection process and aging. It will take several years to work, but it is worth it", says the filmmaker.
+
+DNA evidence
+A study of mitochondrial DNA of the Chiribaya dogs found three haplotypes, two of them not found before.

@@ -1,0 +1,22 @@
+# Alaunt
+
+Alaunt
+
+The Alaunt is an extinct type of dog which came in different forms, with the original possibly having existed in the North Caucasus, Central Asia and Europe from ancient times.
+This type of dog may have been developed by the Alans, and was renowned primarily for its quality as a large-game catch dog, and as a war dog and guard dog.
+
+Features
+
+In France, the Alaunt as a crossbreed had three distinct types: the alant veautre, alant boucherie and alant gentile. They all were large, short-coated dogs of varying head-types. The former two resembled the mastiff-type dogs much like the present-day Dogo Argentino or like the Caucasian Shepherd Dog except with short hair and a mesocephalic head which made them excellent large-game hunters, the gentile was a large sighthound type. The Alaunt type may have been originally bred by the Alani tribes, the nomads of Indo-European Sarmatian ancestry who spoke an Iranian language. The Alans were known as superb warriors, herdsmen, and breeders of horses and dogs. The Alans bred their dogs for work and developed different strains within the breed for specific duties. The type was further developed in Spain, Portugal, France, Germany, England, and Italy.
+
+History
+
+The Molossus belonged to the tribe of the Molossians, from Epirus in northern Greece in about 1200 BC, coming from the north. However, their artifacts did not resemble the Mastiff prototype, as they had a long nose of a narrow type, and a long mane. Varro, however, described a herding dog of Epirus which was white, large-headed, and slightly undershot, used to defend sheep and goats. It is most plausible the Alaunt gave rise to the fighting dogs of the Molossi, which were introduced to Britain by Roman invasion in 43 BC. The Alans provided cavalry for Rome, many of whom were deployed to Hadrian's Wall in the second century AD.
+In the 370s AD, Hun invasions divided the Alani into the Eastern and Western Alans. The Eastern Alani tribes merged with the Ossetians and other nations, introducing their dogs into the bloodlines of many Balkan breeds, such as the Šarplaninac, Metchkar, Qen Ghedje, Hellenikos Poimenikos and other livestock guardian dogs of the region. The white-coloured Alaunts may be the direct ancestors of the Balkan breeds, which in turn influenced all other white dogs in the Balkans.
+
+The Western Alans joined the Vandals on their raids through Europe, and by the 410s AD, their fierce dogs were influencing many breeds in France, Spain, Portugal, England, and other countries. This spread the use of the "Alaunt" name, which became synonymous with a type of a working dog rather than a specific breed. Through breeding with various scenthounds and sighthounds, some Alaunts became valued large game hunting dogs, existing in a variety of types dictated by regional preferences. In AD 1500, Spain was known for breeding the best Alaunts and used them to conquer the New World.
+In France, Alaunts were separated into three main categories, based on physical appearance and the duties they performed. The lightest type was the alant gentil, a greyhound-like dog. The original mastiff variety, known as the alant de boucherie, may have contributed to the development of the fighting and baiting dogs of France. The French alants de boucherie were known as alauntz o bouchery in England, famously dramatised by Chaucer in his "Knight's Tale" as the mythical hounds of Lycurgus, King of Thrace, and the Alano in Spain and Italy and were termed the original Bulldogs as they were used to control and defend herds of cattle. In Spain, the three categories were the Mastins, Alanos, and Lebrels, further separated as the ayuda (defense types) and the presa (offense types), such as the Perro de presa español.
+
+Form
+
+The long, broad, flat head of the Alaunt should never be confused with the modified brachycephalic breeds. The brachycephalic head type is wide in base, but short in length. While the preferred bite is reverse scissor, like the mastiff, and may have been a trait introduced by the Mongolian breeds at some remote time in history, skull type and bite type are separate subjects of genetic traits. The dolichocephalic skull is narrow at base yet long in length, so the Alaunt could be referred to as a modified dolichocephalic breed, as mesocephalic is a balance of base to length. Moreover, the Alaunt or mastiff must be separated from the Molossoides in head study, as this term does not separate the Mastiff from the mountain dogs or even the pug.

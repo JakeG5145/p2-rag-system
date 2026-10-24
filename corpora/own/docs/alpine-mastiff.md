@@ -1,0 +1,6 @@
+# Alpine Mastiff
+
+Alpine Mastiff
+
+The Alpine mastiff was a type of molosser, or "flock-guardian phenotype" with the same or similar ancestral origins as the Saint Bernard. However, unlike the Saint Bernard, the Alpine mastiff was never a bona fide breed. It is believed to be the progenitor of the modern English Mastiff, as well as other breeds that derive from these types of dogs or that are closely related. M. B. Wynn wrote, "In 1829 a vast light brindle dog of the old Alpine mastiff breed, named L'Ami, was brought from the convent of Great St. Bernard area, and exhibited in London and Liverpool as the largest dog in England." William Cavendish, 5th Duke of Devonshire, is believed to have bred Alpine mastiffs at Chatsworth House. It was earlier thought that ears of the Alpine mastiffs were cut to prevent them becoming frostbitten.
+The names "Alpine mastiff" and "Saint Bernard" were used interchangeably in the early 19th century, but are two different types of dogs, though the variety that was kept at the hospice at Great St. Bernard Pass was significantly altered by introducing other mastiff types, including the Newfoundland and Great Dane, and was developed into the modern, officially recognized purebred dog known as the Saint Bernard. Inevitably, these dogs filtered through to the wider population and the original variety dwindled in its pure form.

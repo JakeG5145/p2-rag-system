@@ -1,0 +1,20 @@
+# Colombian Fino Hound
+
+Colombian Fino Hound
+
+The Colombian Fino Hound (Spanish: Sabueso Fino Colombiano) is a breed of scent hound and is the only recognized breed of dog native to Colombia. It was recognised by the Fédération Cynologique Internationale in 2026.
+
+History
+
+It is believed the Colombian Fino Hound descends from scent hounds imported into Colombia, the breed has been known in the country for at least two centuries although there is some evidence that some of the breed's ancestors have been in the country for up to 350 years. The colonial chronicle El Carnero and other historical documents suggest that between 1550 and 1800, Spanish-origin bloodhounds were brought to Colombia and other Andean countries to hunt rodents, greyhounds were introduced for deer hunting, and retrievers were brought in for duck hunting. Later, during the Colombian War of Independence, British soldiers introduced Foxhounds as well as Pointers to the region for bird hunting. Adapted to roaming through jungles and mountains in temperatures of up to 30 °C (86 °F), the dogs are found throughout rural communities, particularly in the north of the country, and are considered part of peasant culture where poverty necessitates having a dog that can provide meat for the family. The breed is recognized by Colombia's national kennel club, the Asociación Club Canino Colombiano and is the only dog breed native to Colombia, and in 2015 it was estimated there were as many as 10,000 examples of the breed within Colombia.
+
+Description
+
+The Colombian Fino Hound is a medium-sized, smooth- and wire-haired, long-eared breed which displays many typical scent hound traits. The Asociación Club Canino Colombiano's breed standard states the breed comes in two sizes, the standard size stands between 43 and 50 centimetres (17 and 20 in), whilst the larger grande size stands between 51 and 60 centimetres (20 and 24 in). The breed standard states the standard sized variety weighs between 15 and 25 kilograms (33 and 55 lb) and the grande variety weighs between 25 and 35 kilograms (55 and 77 lb).
+The Colombian Fino Hound has a short haired coat that comes in a broad range of colors. According to the breed standard, their coat can be any shade, pattern or combination of red, black, white, brown or brindle. The breed has a long tail. Known for their exceptional sense of smell, these dogs are affectionate, friendly, patient, and highly intelligent. Historically, they have excelled in sport hunting, an activity banned in Colombia since 2019. As a result, many experts and organizations have suggested that these dogs could be ideal for search and rescue operations, particularly in locating missing persons.
+
+Recognition
+
+The historical recovery of the Colombian Fino Hound was initiated by Elver "Chejo" Marín in 2007 and subsequently expanded by Jonathan Álvarez, an animal scientist and researcher at the National University of Colombia, with contributions from Stefano Trindade. Their collaborative work helped document the breed's characteristics and strengthen its identity as an autochthonous canine heritage of Colombia.
+In Colombia, the ACCC has officially recognized the breed since 2015. On February 11, 2026, the Fédération Cynologique Internationale (FCI) granted the Colombian Fino Hound provisional international recognition and published its official breed standard. This recognition represents a milestone for Colombian cynology and for efforts to conserve a breed closely linked to the country's rural history. However, provisional recognition does not yet constitute full recognition by the FCI.
+Today, the Colombian Fino Hound has expanded its international presence and can be found in more than 18 countries, with breeding and conservation groups established outside Colombia. Countries where the breed is being promoted include Spain, the United States, Mexico, Venezuela and Brazil, where breeders and enthusiasts contribute to raising awareness of this native Colombian breed. This international expansion complements conservation and genetic improvement efforts undertaken in Colombia.

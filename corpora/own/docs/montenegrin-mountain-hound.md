@@ -1,0 +1,7 @@
+# Montenegrin Mountain Hound
+
+Montenegrin Mountain Hound
+
+The Montenegrin Mountain Hound (Serbo-Croatian: crnogorski planinski gonič / црногорски планински гонич) is a rare dog breed originating from the mountainous regions of Montenegro. Black and tan, with a smooth coat, the Montenegrin Mountain Hound was called Black Hound in the past. The breed is of the same origin as the other Balkan hounds. It stands 18 to 22 inches (46 to 56 cm) high and weighs 44 to 55 pounds (20 to 25 kg). The breed is used to hunt fox, hare, and small game, occasionally hunting larger animals such as deer or even wild boar.
+The breed was formerly known as the Yugoslavian Mountain Hound (Serbo-Croatian: jugoslovenski planinski gonič / југословенски планински гонич); the FCI changed the name on July 15, 1997. The first standard dates back to 1924. The breed bears strong resemblance to the Austrian Black and Tan Hound. The breed was first officially recognized on May 8, 1969, in Warsaw. American Rare Breed Association considers the breed endangered.
+Perhaps the most memorable popular depiction of the Montenegrin Mountain Hound (then called Yugoslavian Mountain Hound) had been as the hand puppet "Triumph the Insult Comic Dog", regularly appearing on the NBC television show Late Night with Conan O'Brien. Although the puppet displays physical characteristics of the breed, and was identified as such during many appearances, the caption identifying Triumph as a Yugoslavian Mountain Hound was promptly removed after NATO military attack ensued against FR Yugoslavia.

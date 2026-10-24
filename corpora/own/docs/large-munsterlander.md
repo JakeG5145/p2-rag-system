@@ -1,0 +1,23 @@
+# Large Münsterländer
+
+Large Münsterländer
+
+The Large Münsterländer or Großer Münsterländer is a modern German breed of continental pointing dog of spaniel type. It originated in Westphalia and Lower Saxony, and is named for the Münsterland region of northern Westphalia.
+It shares the same origins as the German Long-haired Pointer, and was established as a separate breed when the breed society removed the black-and-white colouration from its breed standard. A new breed society for black-and-white long-haired pointers was started in 1919, and the new breed was recognised in 1922. It was definitively accepted by the Fédération Cynologique Internationale in 1954.
+
+History
+The pointing dog breeds of Europe all derive from the now-extinct Old Spanish Pointer, which spread through France and the Low Countries and reached the princely houses of the German-speaking world, where at first they were used in bird-hunting with nets or falcons, and later by huntsmen with guns. Bird dogs were also brought from England; Carl von Heppe, in his Aufrichtiger Lehrprinz of 1751, describes these as taller and stronger than the local type. In the nineteenth century large numbers of dogs of Burgos Pointing Dog type were brought to Germany. In the early part of that century the resulting mixed population had no specific name – the dogs were called Hühnerhunde ('bird dogs') or Jagdhunde ('hunting dogs').
+In 1878, at the annual dog show of the Verein zur Veredelung der Hunderassen in Frankfurt am Main, it was agreed that breed standards for German dogs would be established at the show to be held in Hannover in 1879; standards for both the Deutsch Kurzhaar (German Short-haired Pointer) and the Deutsch Langhaar (German Long-haired Pointer) were introduced in that year. Although black-and-white dogs are documented in paintings of the old Hühnerhunde, dogs with this colouration were at first excluded from the German Long-haired Pointer standard, as it was regarded as a sure sign of cross-breeding with the English Setter. They were later allowed to be registered, until black-and-white was definitively removed from the standard in 1908 or 1909.
+In 1919 a breed society, the Verein für die Reinzucht des langhaarigen schwarz-weißen Münsterländer Vorstehhundes, was formed in Haltern in Münsterland by breeders of these long-haired black-and-white pointing dogs, for which the name Großer Münsterländer Vorstehhund was chosen – most of them were either in Westphalia or in Lower Saxony. A list of eighty-three suitable foundation animals was drawn up, and was published in the first stud-book for the new breed in 1922. The breed was officially recognised by the Delegierte-Kommission in the same year.
+It was definitively accepted by the Fédération Cynologique Internationale in 1954; it was recognised by the Kennel Club of Great Britain in 1971 and by the American Kennel Club in 2023.
+In the fifteen years from 2009 to 2023, the annual number of new registrations in Germany varied from 241 to 452, with an average of about 336, or just over 0.4% of all registrations in the period.
+
+Characteristics
+According to the international standard of the Fédération Cynologique Internationale, the Large Munsterlander should be athletic, intelligent, noble and elegant in appearance. The dog should be muscular without being bulky, the body approximately the same length as the height at the withers and the gaits fluid and elastic.
+Dogs stand some 60–67 cm at the withers, bitches about 2 cm less. Body weight is approximately 30 kg in both sexes.
+The coat is black-and-white and of medium length; it is dense, close-fitting, sleek and firm, and may be either smooth or lightly waved. Due to the nature of the piebald gene, the amount of black in an individual's coat pattern is highly variable, ranging from predominantly white to predominantly black. Markings occur as solid black patches, with black ticking or roan filling in the white fur in varying degrees of concentration. Usually, the head is predominantly black, and the tip of the tail is white, regardless of the distribution of black and white, and roan and ticking on the rest of the body.
+The Large Munsterlander was included in a genetic research study, and all were homozygous for the sp allele in the MITF gene that causes piebald spotting.
+
+Use
+It is a versatile all-round gun-dog, used for pointing and tracking and to find and retrieve shot game. It works well on land and particularly in water.
+Their long and thick coat protects them against cold and allows them to search dense cover thoroughly, but as a result leaves them more susceptible to burrs.

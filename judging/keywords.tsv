@@ -1,0 +1,31 @@
+# One keyword pattern per query for the candidate pool (scripts/build_candidates.py): qid<TAB>regular expression, case-insensitive.
+h01	puffin
+h02	dingo
+h03	smallest (dog|breed)|world's smallest
+h04	largest (dog|breed)|tallest (dog|breed)|heaviest (dog|breed)
+h05	state dog|louisiana
+h06	(can'?n?o?t|unable to|does not|doesn't|rarely|seldom) bark|barkless|yodel
+h07	fastest|top speed|\d+ ?km/h|\d+ ?mph
+h08	(black|blue|blue-black|purple|bluish)[- ]?(black )?(tongue|tongued)|tongue is (black|blue)
+h09	hairless
+h10	lifeguard|life guard|life-?saving|water rescue|drown
+c01	turnspit
+c02	niederlaufhund
+c03	poodle
+c04	pungsan
+c05	karelian bear dog
+c06	fousek
+c07	hovawart
+c08	\bbilly\b
+c09	j[äa]mthund
+c10	manchester terrier
+c11	magyar ag[áa]r|hungarian greyhound
+c12	st\.? bernard|saint bernard
+c13	bull terrier
+c14	russian toy|moscow long
+c15	dalmatian
+c16	podenco
+c17	maremman
+c18	wool dog|salish
+c19	philippine
+c20	miniature fox terrier|mini foxie

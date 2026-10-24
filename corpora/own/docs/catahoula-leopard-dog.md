@@ -1,0 +1,20 @@
+# Catahoula Leopard Dog
+
+Catahoula Leopard Dog
+
+The Catahoula Leopard Dog is an American dog breed named after Catahoula Parish, Louisiana. It became the state dog of Louisiana in 1979. It is recognized by the United Kennel Club under the name Louisiana Catahoula Leopard Dog, while the American Kennel Club Foundation Stock Service calls it Catahoula Leopard Dog. Both registries have assigned the breed a herding designation, although it has traditionally been used in hunting feral boars.
+
+History
+The Catahoula lineage was started in the mid-1700s, when French settlers crossbred local dogs with Beauceron dogs.
+On July 9, 1979, in recognition of the historic significance of the Catahoula cur to the state of Louisiana, Governor Edwin Edwards signed House Bill #75 officially naming the Louisiana Catahoula Leopard Dog as the state dog. On January 1, 1995, the Louisiana Catahoula Leopard Dog was recognized by the United Kennel Club. In 1996, the AKC added the Catahoula Leopard Dog into their Foundation Stock Service.
+
+Appearance
+Though physical characteristics are varied, Catahoulas are usually muscular dogs with a rectangular-shaped body. They tend to have a large head with drop ears and a strong, slightly tapered muzzle. They tend to have a thick muscular neck and a long, curved tail. They come in many colors and have medium/short hair.
+
+Catahoulas come in many different colors, including blue merle, red merle, brindle, and solid colors. Often, solid coat Catahoulas have small splashes of other colors such as white on their face, legs or chest. The leopard-like coat of most Catahoulas is the result of the merle gene. The merle gene does not normally affect the entire coat of the dog, but dilutes the color only in areas that randomly present the characteristic of the gene. Deeper colors are preferred; predominantly white coats are discouraged. Since the Catahoula is a working dog, coat color is not a primary consideration.
+The Catahoula has a single smooth short or coarse medium coat. The breed may have any eye color or combination of colors, including blue, brown, green, or amber.
+
+Work
+The Catahoula was initially used for hunting. Native Americans tended to use the dog for hunting large game. European settlers used the dog for hunting and herding livestock. The first white settlers in Louisiana are believed to have used the dog to hunt feral pigs in the swamps of Louisiana.
+Catahoulas are used as bay dogs, tree dogs, and for hunting a variety of wild game, including small game, such as raccoons and squirrels, as well as big game, such as deer, mountain lions and bear. They are also used for scent trailing game and as a search and rescue dog.
+Catahoulas have a natural herding instinct and a unique way of working a herd. The AKC describes it as creating a “canine fence” around the herd which allows the dog's master to work the herd within that circle. Herding ability and a natural working instinct are a top priority to Catahoula breeders, over and above a dog's appearance. Herding instincts and trainability can be measured at noncompetitive herding tests. Catahoulas exhibiting basic herding instincts can be trained to compete in cow/hog dog trials.

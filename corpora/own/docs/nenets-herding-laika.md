@@ -1,0 +1,21 @@
+# Nenets Herding Laika
+
+Nenets Herding Laika
+
+The Nenets Herding Laika is an aboriginal spitz landrace of dog originating from the Yamalo-Nenets Autonomous Okrug, in Russia. Unlike other laikas, Nenets Herding Laika are less commonly used for hunting. Instead they have been selected primarily for reindeer herding ability, originally by the Nenets people, and later by reindeer herders through Russia. Nenets herding laika are thought to be the progenitor of several modern breeds, the most well-documented being the Samoyed. Despite this, the breed almost died out during the Soviet era due to lack of interest in preserving genetically purebred examples. In 1994, the Russian Kynologic Federation (RKF) approved the first official standard of the breed.
+
+Appearance
+
+Nenets Herding Laika are small to medium-sized dogs with thick double coats that are either solid or bicolored, coming in grey, tan, red, black or white. They come in two coat lengths, a long-haired coat called "erre" and a short-haired coat called "yando," and they should retain a well developed coat through the summer. Regardless of coat length, the guard hairs should be straight, stiff and long, with a lush, soft undercoat.
+Nenets Herding Laika are muscular dogs with a moderate wedge-shaped heads, small, prick ears and a tail that curves over the back or is kept down depending on mood. Nenets Herding Laika should display sexual dimorphism, with males standing 44–50 centimetres (17–20 in) tall and females standing 40–45 centimetres (16–18 in).
+
+Behavior
+Nenets Herding Laika is a functional and resilient dog in a wide range of conditions with minimal care. They are described as energetic dogs that are quickly trained . They are neither shy nor aggressive with humans.
+
+While traditionally associated with herding, Nenets Herding Laika are versatile dogs that can and should perform a wide range of tasks, including hunting small game and dog sledding. The Nenets people would often rank the quality of their dogs by their ability to herd as well as catch Arctic foxes, with especially fast dogs being able to catch up to three foxes in a day. They have been successfully used as search and rescue dogs, especially in mountainous regions where dogs must be tough and agile. Nenets Herding Laika have been successfully used as detection dogs, and the Sulimov jackal-dog hybrids used for bomb detection in Moscow International Airport were bred using Nenets Herding Dog.
+
+History
+
+The Nenets Laika is one of the oldest dog breeds, surviving from the Paleolithic era to the present day almost unchanged with little genetic inflow. Prized for their efficiency as a reindeer herding dog, by the 1930s Nenets Herding Laika had spread across the Arctic circle and into Central Europe, stretching from the Kola Peninsula to Chukotka. Though the Nenets people themselves primarily used reindeer to haul their sleds, several arctic explorers would use Nenets Herding Laika as sled dogs, most notably Russian painter and explorer Alexandr Borisov and Norwegian explorer and scientist Fridtjof Nansen. The all-white surviving dogs from Nansen's Fram expedition of 1893–1896 would form the foundation stock of the Samoyed.
+
+As infrastructure and mechanized travel made Arctic regions more accessible, non-native dogs began to intermix with the Nenets Herding Laika population. This, combined with a prevalent belief during the Soviet era that only registered purebred dogs had any value, contributed to Nenets Herding Laika's decline. By the 1980s, a collective effort was made to replace the Nenets Herding Laika with humans on all-terrain vehicles and snowmobiles, citing the use of dogs as an antiquated method. At this time, it was widely believed that no purebred examples existed. Fortunately, several small populations were discovered after the dissolution of the Soviet Union and efforts are underway to preserve the breed in Russia. However the breed continues to be virtually unknown outside of Russia and Norway. There are currently estimated to be around 2000 purebred Nenets Herding Laika herding reindeer in Yamalo-Nenets Autonomous Okrug. In 1994, the Russian Kynologic Federation (RKF) approved the first official standard of the breed.

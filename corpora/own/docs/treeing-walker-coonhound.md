@@ -1,0 +1,29 @@
+# Treeing Walker Coonhound
+
+Treeing Walker Coonhound
+
+The Treeing Walker Coonhound is a breed of hound descended primarily from English and American Foxhounds. The breed originated in the United States when a stolen dog known as "Tennessee Lead" was crossed into the Walker Hound in the 19th century. The Treeing Walker Coonhound was recognized officially as a breed by the United Kennel Club in 1945 and by the American Kennel Club in 2012.
+The Treeing Walker Coonhound was bred primarily to hunt raccoons, but it is also used on other game such as squirrels, deer, bears, bobcats or cougars. The breed is vocal, with a distinctive bay that allows its owner to identify their hound from great distances. It has a clear, ringing voice that changes to a steady chop at the tree. Treeing Walker Coonhounds tend to do best in working homes.
+
+History
+The Treeing Walker Coonhound was developed in the 19th century. John W. Walker and George Washington Maupin, two breeders from Kentucky, are credited with the breed's initial development through the selective breeding of foxhounds.
+The dogs were referred to as Walker Hounds and were used to hunt raccoons. In 1852, a stolen black and tan dog named Tennessee Lead was crossed into the Walker hound line and greatly influenced the further development of the breed. The Walker Coonhound, Treeing, was first recognized by the United Kennel Club (UKC) in 1905 as a part of the English Coonhound breed, at the request of breeders. The name was later changed to Treeing Walker Coonhound, and it was fully recognized as a separate breed in 1945. It was recognized by the American Kennel Club (AKC) in January 2012, making it the AKC's 174th recognized breed. In 2026, the Treeing Walker Coonhound was chosen to be the official state dog of Kentucky.
+
+Characteristics
+
+The Treeing Walker Coonhound may give an impression of a working dog. According to the UKC standard, it may stand 20 to 27 inches high at maturity, with weight in proportion. The common weight range is 50 to 70 pounds, with males being larger than females.
+The skull should be broad, with a long muzzle and long, hanging ears. Eyes are dark and have a soft expression. All four legs should be straight when viewed from the front or back, with cat-like, compact feet. In conformation shows, blindness or deafness is a disqualification.
+The smooth coat is fine and glossy and comes in a tricolor and a bi-color pattern. Tricolor, white with black and tan markings, is preferred, although bi-color dogs, black and white or tan and white, are acceptable.
+The Treeing Walker Coonhound has a clear bay on the trail, which should change to a distinct "chop" when treed. Its temperament should be kind but fearless and courageous on the hunt.
+The Treeing Walker Coonhound is bred primarily for the mouth, looks, and ability. It is first and foremost a hunting dog, although it may be kept as a pet. It is described as affectionate and good with children, but its energy requires an outlet and it must be trained.
+The Treeing Walker Coonhound lives an average of 12 to 13 years.
+
+Temperament
+
+Treeing Walker Coonhounds are loving, intelligent, confident, and enjoy interacting with humans. They make good companion dogs for an owner who understands the characteristics of the breed and is willing to work with their in-bred nature as a hunting dog. On the scent, they are tireless, alert, and intense. At home, they are mellow, sensitive lovers of comfort.
+Treeing Walker Coonhounds get along well with other dogs and with children. Like most hounds, they are even-tempered and difficult to annoy or drive into aggression towards people or fellow dogs. With training, they will coexist with small animals such as cats, despite their nature as a small-game hunter.
+
+Hunting
+
+The Treeing Walker Coonhound's strong tracking instincts make it popular as a hunting dog, primarily for medium-sized arboreal prey such as raccoons and opossums. Hunting solo or in packs of two or more, they are used to track and tree bobcats, cougars, and bears. Individual hounds may be adept at catching small animals such as squirrels and rats. Because of their speed, Treeing Walker Coonhounds may also be used as deer-hunting dogs.
+The Treeing Walker Coonhound is the most popular hound for competition coon hunts. The breed is best known for speed and intelligence, which can make it uniquely suited for tracking and treeing quarry.

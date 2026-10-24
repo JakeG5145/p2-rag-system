@@ -1,0 +1,25 @@
+# Welsh Terrier
+
+Welsh Terrier
+
+The Welsh Terrier (Welsh: Daeargi Cymreig) also known as the Welshie, is believed to have originated in the 1700s in Wales and was originally bred for hunting fox, rodents and badger; in the remote mountains of northern Wales, but during the last century, it has mainly been bred for showing. Despite this, it has retained its terrier strength of character. The Welsh Terrier has been claimed to be the oldest existing dog breed in the UK.
+The Welsh Terrier was a latecomer to the British show-ring (being primarily a working dog) and was not officially registered as a breed until the 19th century. The Breed has managed to win best in show at Crufts four times, the last being in 1998 with Saredon Forever Young (Mel) owned by Judith Averis. It is on the UK Kennel Club's list of breeds that are in danger of dying out, having as few as 300 or so pups registered annually. The most popular breeds are registered in tens of thousands each year.
+
+Appearance
+
+The Welsh Terrier is coloured tan on the head, legs and underbelly with a black or sometimes grizzle saddle. Females are sometimes a simple darker tan all over. The breed is a sturdy and compact dog of about medium size that can grow up to 15.5 in (39 cm) with a weight of 20–22 pounds (9.1–10.0 kg). The tail was usually docked until this was prohibited in the United Kingdom in 2006, being preferred in order to complete the image of a square dog, as tall as it is long. The body shape is rectangular, with an elongated, "brick-like" face. This shape is formed by the whiskers and beard. With pedigrees the face can take a more oval shape and be finer boned and more distinct.
+The hair contains two layers, an undercoat that insulates and abrasive fur on top that protects against dirt, rain, and wind. Welsh Terriers are born mostly all black and during the first year they change colour to standard black and tan grizzle.
+This breed does not shed (see Moult). However, the coat requires regular grooming maintenance including brushing and hand stripping.
+An undocked Welsh Terrier tail is only an inch or so longer than a docked tail and does not make a great deal of difference to the overall appearance. The coat does not moult out but old hairs will eventually be stripped out through play and movement if the coat is not regularly raked. Ungroomed coats can also fade and thin out as the old hair loses colour and texture.
+The Welsh Terrier closely resembles a compact Airedale Terrier.
+
+Temperament
+
+The Welsh Terrier has a typical terrier temperament. In the right hands, it is a happy, lively, and seldom shy or timid dog, but sometimes can have an attitude. The Welsh Terrier is generally friendly with people and dogs but when a challenge is perceived, it will not back down. Dogs of this breed can be devoted friends and can function either as city dogs or as country dogs.
+Welsh Terriers were developed to hunt independently and this required that they be very assertive and stoic dogs. As a consequence, developing obedience in a Welsh Terrier is a long-term proposition and one has to constantly work on and reinforce the training. They rank 101st in Stanley Coren's The Intelligence of Dogs, being of average working/obedience intelligence. This, however, does not mean that Welsh Terriers fail to learn or understand commands, just that they tend to make their own decisions; thus the need for constant reinforcement. When acting on their own, they are quite creative and quick in decision making. They also have the potential for excessive barking. Like other terrier breeds, the Welsh Terrier enjoys digging.
+A Welsh Terrier is full of energy and requires regular exercise. A run around the yard during the day is insufficient. They become excited, and if bored, they may explore and potentially cause mischief and damage. Welsh Terriers need a challenge to keep them entertained. For example, they love chasing toys and love swimming (a good example would be lake activities with their families).
+Welsh Terriers get along well with children; they love to play and follow a child as it plays, however, they will often tug at pant legs and can knock young ones off their feet. If they are around young children at an early age, they will easily learn to play more gently.
+As with all breeds, it is important to socialize Welsh Terriers as early as possible to a wide range of dogs, people, and experiences.
+
+Health
+The body of the Welsh Terrier is normal and healthy so that the physique is durable and lasting. Some studies have suggested a genetic predisposition to primary lens luxation which results in secondary glaucoma. Onychodystrophy, a disorder of nail growth causing nails to be weak and brittle, is relatively common in the breed.

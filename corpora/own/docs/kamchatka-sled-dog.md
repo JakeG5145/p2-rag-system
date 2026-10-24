@@ -1,0 +1,20 @@
+# Kamchatka Sled Dog
+
+Kamchatka Sled Dog
+
+The Kamchatka Sled Dog (Russian: Камчатская ездовая собака, romanized: Kamcheatskaya ezdovaya sobaka, lit. 'Kamchatka riding dog') is a rare landrace of sled laika developed by the Itelmen and Koryak people of Kamchatka, Russia. There are currently efforts underway to revive the breed. A standard for the Kamchatka Sled Dog was approved by the Russian Federation of Service Dog Breeding in February 1992.
+
+Description
+
+Kamchatka Sled Dogs are large, hardy, cold tolerant dogs with a thick double coat capable of withstanding high winds and extreme temperatures. The dog has a strong, elongated frame with long legs capable of pulling heavy loads with minimal care over long distances in deep snow. Color is most often black, dark or light grey, with prick ears and oblique yellow, brown or blue eyes. Dogs should display sexual dimorphism.
+Kamchatka Sled Dogs are loyal and intelligent dogs who are friendly to people. They generally do not bark and are too friendly to be used as guard dogs. Like other sled dogs, they are capable of navigating trail despite blizzard conditions. Traditionally, Kamchatka Sled Dogs are fed salmon, often every other day. This may be supplemented by human food scraps, seal blubber or store-bought dog food. The dogs have a high prey drive and are noted to attack reindeer, a staple livestock of the region.
+A standard was established in 1992; however, due to length of the Kamchatka peninsula, there is significant variation along the peninsula. Many populations of Kamchatka sled dogs are still maintained as a landrace using traditional methods including the occasional outcrossing to produce wolfdogs.
+
+History
+
+Archeologists have uncovered evidence of sled dogs during thousand year old excavations in the Kamchatka Peninsula. Early 18th century writers report the abundance of sled dogs in the region and local dependence on sled dogs for transportation. However, the Kamchatka sled dog was also used for clothing and spiritual purposes by the native Koryak people. Koryaks believe that the door to the afterlife was guarded by dogs which had to be bribed to allow the newly deceased to pass through.
+
+During the 1890s, Kamchatka sled dogs were actively exported to Alaska, to transport gold miners to the Yukon as part of the Klondike Gold Rush. While generally the Chukotka sled dog is considered the progenitor of the Siberian huskies, it is theorized that the Kamchatka sled dog may also have been intermingled, contributing the characteristic blue eyes seen in Siberian huskies but which are not standard in Chukotka sled dogs.Sportswoman and author M. G. Dmitrieva-Sulima would describe them as a "Koryak Laika" in her 1911 book, "Laika and hunting with it."
+German polar explorer Erich von Drygalski used Kamchatka sled dogs in his 1901–1903 Gauss expedition, faring better than previous expeditions because his dogs were used to the cold and he hired an experienced dog handler. His dogs were allowed to reproduce freely and many had to be euthanized due to lack of space on the return voyage. Some dogs were left behind on the Kerguelen Islands.
+Kamchatka Sled Dogs were popular throughout the Kamchatka Peninsula until the 1950s and 1960s, when improvements in infrastructure and mechanized travel coupled with the introduction of reindeer and Soviet policies on national minorities resulted in the collapse of indigenous sled dog populations. Prior to the introduction of reindeer, Kamchatka sled dogs were allowed to roam freely during the summer to find their own food. With the introduction of reindeer, the dogs needed to be tied up during the summers, creating a dependency on humans for feeding. Demand for dog fur clothing increased during this time and hunters targeted the dogs for their fur which was popular in hats and coats.
+Since the 1990s, efforts have been underway to preserve purebred examples. in 1990, the first Beringia sled race was held to showcase traditional dog sledding and Kamchatka Sled Dogs.

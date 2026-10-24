@@ -1,0 +1,7 @@
+# Taigan
+
+Taigan
+
+The Taigan (Kyrgyz: тайган), and also known as Kyrgyz Taighany (Kyrgyz: кыргыз тайганы) (Kyrgyzskaya Borzaya in Russian), Mongolian Taiga dog is a breed of sighthound from Kyrgyzstan. The Taigan is found in the alpine Tian Shan region of Kyrgyzstan on the border with China, it is closely related to the Tazy and the Saluki.
+As a sighthound, the Taigan primarily relies on its sight and speed to capture prey. Renowned for its exceptional stamina at high altitudes and versatility in hunting, this breed demonstrates proficiency in following scent trails and is also recognized for its ability to retrieve game. Taigans are frequently employed in hunting scenarios alongside trained bird of prey, particularly the golden eagle. The Taigan is used to hunt a wide range game including marmot, hare, fox, badger, wildcat, hoofed game such as the ibex and roe deer, and even wolf.
+The Taigan is characterized by its medium-length, slightly curly coat, which comes in a diverse array of colors ranging from white and various shades of fawn to greys and black examples. Since the breakup of the Soviet Union, the Taigan's population has experienced a notable decline. However, the Russian Kennel Club has undertaken concerted efforts to preserve the breed, along with the Tazy breed. These efforts include recognising both breeds and actively seeking out high-quality breeding stock to support their continued existence.

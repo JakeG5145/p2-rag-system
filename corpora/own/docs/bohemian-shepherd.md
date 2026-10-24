@@ -1,0 +1,30 @@
+# Bohemian Shepherd
+
+Bohemian Shepherd
+
+The Bohemian Shepherd (Czech: Chodský pes) is an ancient sheep herding dog and watch dog originating from what is today the Czech Republic. Since 2019, the Bohemian Shepherd has been provisionally recognized by the FCI and the AKC's Foundation Stock Service.
+
+History
+The Bohemian shepherd is a herding dog and guard dog, indigenous to the Chod region (around Domažlice) of southwest Bohemia. Chronicles written during the reign of Břetislav I indicate that the Chods were known to be accompanied by an especially faithful dog. During the reign of King Ottokar II (1253-1278), the Kingdom of Bohemia recruited the Chods from ethnic enclaves within the western Carpathian Mountains region near the borders of today's Slovakia, Poland, and southwestern Ukraine. These communities were relocated to serve as border patrol along the borders between Bohemia and Bavaria. It is not known if it is the same dog that accompanied the Chods during relocation or if the breed was developed soon afterwards; however period drawings indicate it was a small, long-haired shepherd dog with prick ears. The breed quickly became indispensable to the Chods, aiding them in border patrols but also herding and tracking game. By 1325, the King of Bohemia, John of Luxembourg, acknowledged as a condition of their relocation and border protection, the ancestral Chods were granted significant privileges that differentiated them from other subjects, including the right to own large dogs forbidden to ordinary Bohemian peasantry.
+The Bohemian shepherd would continue to be associated with the Chods even after their agreement with the Kingdom of Bohemia was declared void in 1695. J.A. Gabriel, writing about the Chods in 1864, described the local people as “Psohlavci” (Czech: Dog-heads) as their pennon featured the silhouette of a Bohemian sheepdog with a longer coat at the neck. Alois Jirásek, writing in his 1884 novel Psohlavci concerning the Chod revolt of 1695, used a Bohemian shepherd as a flag symbol for them. Writer Jindřich Šimon Baar wrote of "Chod dogs" from the Bohemian Forest region in 1923, describing them as "balanced and tenacious dogs used for guarding and protecting and rounding up cattle."
+Following the aftermath of World War II, the breed nearly disappeared. A small group of enthusiasts submitted a proposal in 1948 to get the Chod dog recognized by the FCI; however there were some disagreements on a breed standard and efforts were soon put aside.
+In 1984, International FCI judge Jan Findejs and cynology expert Vilém Kurz partnered to reestablish the Bohemian Shepherd. Advertisements were placed in local Czech newspapers searching for Bohemian shepherds with a handful of owners coming forward. Dogs were assessed and compared with preserved documentation, written materials and period drawings. The main goal was to raise healthy dogs with good temperaments. In 1985, the first litter was born to this program. In 2000, the studbook was closed to previously unregistered dogs. As of 2019, there were about 7,300 registered Bohemian Shepherds.
+Despite their appearances, there is no evidence to suggest they are related to German Shepherd dogs.
+
+Introduction to North America
+In North America, clubs established standards with the objective of starting breeding programs in North America dedicated to best practices for healthy and diverse full bred gene pools. In 2022, one of the founding members of the club and owner of four Bohemian Shepherds became the first in North America to both breed and whelp Bohemian Shepherd puppies in the USA. Six males and one female were whelped in Illinois. As of 2023 it is estimated there are roughly 100 Bohemian Shepherds in North America.
+
+Appearance
+
+The Bohemian Shepherd is a medium-sized, rectangular-shaped dog, standing 48–55 cm (19-22 inches) at the withers and weighing about 15–25 kg (35-55 lb). Long, thick fur and a rich undercoat allow them to survive in harsh weather. The desired fur color is "black with tan." The body is compact and well proportioned with high-set, small, pointed, erect ears, and a long, elegant neckline. A fluid, light and unhurried gait is one of the typical characteristics of this breed.
+
+Temperament
+Bohemian Shepherds are energetic and quick, optical as sporting dogs and family pets. Quick-learning and compliant, Bohemian Shepherds relate positively to children and other pets. The breed is agile with a good sense of smell, making them proficient search and rescue dogs or good for handicapped people, as well as optical watch dogs. The breed has a stable, calm, and friendly temperament.
+
+Health
+The Bohemian shepherd is generally considered a healthy breed with few hereditary diseases, in part due to strict guidelines established in the 1990s by the Czech breed club. The average lifespan is 12-14 years.
+
+In popular culture
+
+A Bohemian shepherd silhouette is used for the Czech scout organization Junák's badges.
+The largest statue of a dog is a Bohemian shepherd statue designed by Michal Olšiak near the village of Újezd in the Plzeň Region. The statue measures almost four meters in height and eight meters in length.

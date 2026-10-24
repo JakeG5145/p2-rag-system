@@ -1,0 +1,7 @@
+# Grand Fauve de Bretagne
+
+Grand Fauve de Bretagne
+
+The Grand Fauve de Bretagne was a breed of scenthound from Brittany used to hunt wolves and wild boar. The Grand Fauve de Bretagne were large rough-coated hounds, their coats were short, dense and harsh, and they were a uniform pale golden-brown in colour. Grand Fauve de Bretagnes were renowned for their unruly natures, being very difficult to control; their temperament suited them for hunting dangerous game like wolf and wild boar, but due to their unruliness they were also known to kill sheep and goats against their huntsman's wishes.
+The Fauve de Bretagne hounds were known in France from the 16th century, in 1520 Francis I of France was presented with a hound "Miraud" by the Breton Admiral Claude d'Annebault; Francis subsequently kept a pack. In 1570, Charles IX of France in his La Chasse Royale listed the Fauve de Bretagne as one of the principal breeds of French hounds. With the extirpation of wolves from much of France in the mid-19th century these hounds became rare; by 1873 it was recorded that purebred examples were hard to find and it was believed only three packs retained the bloodlines; in subsequent decades the breed became extinct.
+Some Grand Fauve de Bretagne hounds had been crossed with Briquet Griffon Vendéens to create the Griffon Fauve de Bretagne; these smaller hounds retain much of the appearance of the Grand Fauve de Bretagne.

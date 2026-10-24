@@ -68,6 +68,8 @@ def interleave(first: list[str], second: list[str], n: int) -> list[str]:
 
 
 class Rerank:
+    candidates = CANDIDATES  # how many candidates Claude reorders; a variant such as rerank_c10 changes only this
+
     def __init__(self, corpus, cfg):
         self.corpus = corpus
         self.cfg = cfg
@@ -113,7 +115,7 @@ class Rerank:
     def search(self, text: str, k: int) -> list[tuple[str, float]]:
         keyword = [d for d, s in self.bm25.search(text, self.n_docs) if s > 0]
         semantic = [d for d, _ in self.dense.search(text, self.n_docs)]
-        pool = interleave(keyword, semantic, CANDIDATES)
+        pool = interleave(keyword, semantic, self.candidates)
         wanted, best_chunk = set(pool), {}
         for chunk_id, _ in self.hybrid.search_chunks(text, self.n_chunks):
             docid = docid_of(chunk_id)
@@ -128,10 +130,10 @@ class Rerank:
     def search_chunks(self, text: str, k: int) -> list[tuple[str, float]]:
         keyword = [c for c, s in self.bm25.search_chunks(text, self.n_chunks) if s > 0]
         semantic = [c for c, _ in self.dense.search_chunks(text, self.n_chunks)]
-        pool = interleave(keyword, semantic, CANDIDATES)
+        pool = interleave(keyword, semantic, self.candidates)
         order = self.reorder(text, pool)
         wanted = set(pool)
-        rest = [c for c, _ in self.hybrid.search_chunks(text, max(k, CANDIDATES) + CANDIDATES) if c not in wanted]
+        rest = [c for c, _ in self.hybrid.search_chunks(text, max(k, self.candidates) + self.candidates) if c not in wanted]
         return self.scored([pool[i] for i in order] + rest, k)
 
 

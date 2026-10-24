@@ -1,0 +1,8 @@
+# Old Croatian Sighthound
+
+Old Croatian Sighthound
+
+The Old Croatian Sighthound (Croatian: hrt, 'greyhound'), also known as the Old Bosnian Sighthound, is an extinct breed of sighthound from the countries of Croatia and Bosnia and Herzegovina.
+It is claimed the Old Croatian Sighthound was descended from sighthounds kept by the Celts; it closely resembled images of dogs on Celtic coins from the 5th century BC, as such it is believed to be closely related to the greyhound, which was introduced to Britain by the Celts. Descriptions of the breed in the region have been found in the writings of friars from the 13th and 14th centuries AD.
+The Old Croatian Sighthound was almost identical to the Greyhound although slightly smaller, with dogs standing between 60 and 70 centimetres (24 and 28 in) bitches being 5 to 10 centimetres (2.0 to 3.9 in) shorter. The breed had a short coat and was predominantly white with black, brown, red or yellow patches. Traditionally the breed was kept for coursing, predominantly hunting hare; it would catch the game and return it to the hunter.
+The breed never received recognition by any kennel club and suffered greatly under the former Yugoslavia. The government of Yugoslavia banned coursing with sighthounds and further prohibited hunters from owning dogs without kennel club registration. In the early 1980s, some remaining specimens were found in Orašje and the surrounding villages; a pair were brought to the Zagreb School of Veterinary Medicine with the hope of starting a breeding program, but ultimately the program failed; it is believed the breed was extinct by 1995.

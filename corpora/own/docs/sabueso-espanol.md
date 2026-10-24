@@ -1,0 +1,27 @@
+# Sabueso Español
+
+Sabueso Español
+
+The Sabueso Español or Spanish Hound is a scenthound breed with its origin in the far north of Iberian Peninsula. This breed has been used in this mountainous region since hundreds of years ago for all kind of game: wild boar, hare, brown bear, wolf, red deer, fox, roe deer and chamois. It is an exclusive working breed, employed in hunting with firearms.
+
+History
+
+The first description of Iberian scenthounds appears in chapter 39 of Libro de la Montería de Alfonso XI or The Hunting Book of Alfonso XI, a medieval tome of the 14th century for a Castillian king. After that, diverse descriptions of Iberian scenthounds appeared in various Spanish hunting books of the 15th, 16th, and 17th centuries: two examples include Tratado de la Montería, or A Treatise on Hunting and Molina's late Renaissance book Discurso de la Montería, or A Discourse on Hunting, written in 1582.
+During these centuries Spanish scenthounds of the type that would become the Sabueso were used mainly in brown bear and wild boar hunting. Also they were very often used to track wounded game by hunters called Ballesteros (because they used crossbows). Of course these hounds have been used since very ancient times in "caza a traílla" (leashed hound-hunting) to know previously of the hunt the resting location of bears, boars and wolves.
+When firearms were becoming common in northern Spain and big game populations decreased, hunters diversified their quarry and began directing their hounds to hunt rabbits, called "caza de la liebre a la vuelta", although the hunting of wild boar and roe deer continued in other areas.
+Today big game populations in northern Spain have increased substantially and use of the Spanish scenthound has been revived, with a fixed standard since 1982, mainly in wild boar hunting, in the traditional type of boar hunting called "caza a traílla".
+In 2026 it was among the sixteen Spanish breeds considered by the Real Sociedad Canina de España to be vulnerable.
+
+Appearance
+
+The Spanish Hound is a medium-sized dog, with a body that is longer than it is tall. Its total height should be a maximum of 52–57 cm (20-22 inches) in males, and 48–53 cm (18-21 inches) in females. It has very long ears similar to other hound breeds bred for tracking scent; the ears when stretched out should reach past the tip of the nose and commonly twirl away from the head in a slight corkscrew. The legs and feet that are compact, but strong, similar to the Beagle. The eyes should be amber, with a dignified, baleful expression. The tale should be tapering and whip-like, often with a white splash of fur at the tip. Typically the coat should be smooth, short, and glossy; it should have a white base with any combination of lemon, orange, or red-brown patches painted on it without any mottling or merle patterning, like a Paint Horse. The overall temperament is gentle and easy going, but relentless in tracking and brave when faced with a large animal like a male boar.
+
+Use
+
+The Spanish hound is a scenthound with a great sense of smell; characteristically it is an old type of European hound with a cold nose style of hunting. It has a distinctively loud, booming howl. Hunters can know the different phases of the hunt by listening to the hound: as it hunts, its voice changes from a loud, long bay to choppy short barks, indicating it has found its quarry. In far northern Spain, they call the short pattern of choppy barks the "latido" or "llatido".
+In the South, the hound is primarily used in hunting rabbits, similar to the better known Basset Hound. Their favorite traditional method is to let the hare have a head start so the hound can work the trail until it catches up and wears its prey down, driving it into the path of the hunter. This kind of hunting is called "caza de la liebre a la vuelta" (coming back hare hunting).
+In the mountains of Northern Spain, the Sabueso is very often used in wild boar hunting. Mostly this type of hunting is called "caza a traílla", where the dog leads the hunters on a leash. This type of hunting is very old and traditional, whose origin is lost in ancient times. This kind of hunting consists of looking for the wallowing location of the wild boar during the daylight with the help of a leashed scenthound. The hunter (called "montero") and the scenthound will track the boar until they know the resting location of the wild boar. When this location is certain (because the hunter and scenthound have surrounded the wood and there is not a boar track going out of the wood) some hunters with firearms wait surrounding the wood and some scenthounds are unleashed on the track. They jump the boar and chase it at least until the hunters can shoot it.
+This hunting dog possesses a markedly independent character because it has been bred to hunt alone or with one or two more hounds, because of that this breed is not properly a packing breed. They are often found together with griffons in the hunt for wild boar, and were used in the creation of the Griffon Astur-Cantabro, the griffon type that you will most often come across in Spain.
+
+Character
+There are many Sabuesos in Spanish shelters, usually with little chance of ever being adopted, because of the misconception that they do not make good family pets; however, they have a very affectionate, calm, amenable character and would do well with an active family in a rural home.

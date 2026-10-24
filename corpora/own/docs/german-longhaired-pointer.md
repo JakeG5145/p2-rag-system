@@ -1,0 +1,19 @@
+# German Longhaired Pointer
+
+German Longhaired Pointer
+
+The German Longhaired Pointer or Deutsch Langhaar is a German breed of gundog of pointer type. It is closely related to the other German pointer breeds, the German Shorthaired Pointer, the German Wirehaired Pointer and the Large Münsterländer. It was definitively accepted by the Fédération Cynologique Internationale in 1954.
+
+History
+
+The German Longhaired Pointer was developed in Germany for use as a pointer. Selective breeding began in 1879; breed standards drawn up by the Verein zur Veredelung der Jagdhundrassen of Hannover were not found satisfactory, and in 1893 a breed association – the Club Langhaar – was established by Friedrich von Schorlemer-Alst, who in 1897 drew up the breed standard on which the modern Langhaar is based.
+It was definitively accepted by the Fédération Cynologique Internationale in 1954.
+In the fifteen years from 2010 to 2024, the annual number of new registrations in Germany averaged about 509, with a low of 352 and a high of 587; the total number of registrations in the period was 7632, or about 0.68% of the total of 1127154 registrations.
+
+Characteristics
+
+The Deutsch Langhaar is of medium size: heights at the withers for bitches are in the range 58 to 66 cm, with an ideal height between 60 and 63 cm; the range for dogs is 58 to 66 cm, with an ideal of 63 to 66 cm. The average body weight for both sexes is about 30 kg.
+The coat is of medium length, about 3.5 cm long on the body, shorter on the head and somewhat linger on the underside of the neck and body. It is thick and either straight or slightly wavy, with a dense undercoat, and lies close to the body. The colour may be: solid brown; brown, either speckled or with white markings; dark roan with patches of dark brown; pale roan with patches of pale brown; white, mottled with small brown spots; or brown-and-white, with or without spotting.
+
+Use
+It is a versatile hunting dog, purpose-bred to hunt, point to and then retrieve game, both on land and from water.
