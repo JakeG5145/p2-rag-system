@@ -26,7 +26,7 @@ Commit this answer before your first `uv run p2 score` on the own corpus.
 Git history then shows that the expectation came first, which is what lets it be wrong in a way that teaches you something.
 If you were surprised later, say so in prompt 4 or in EVAL.md; do not come back and rewrite this one.
 
-TODO: your answer to prompt 1.
+I chose the wikipedia articles of dog breeds as my corpus, because I love dogs and want to learn more about them. I think rerank will win, because it gives a much more nuanced score on a documents relevency compared to the other methods. I think bm25 will do worst, because it just looks for keywords which might not always properly answer the question.
 
 ---
 
