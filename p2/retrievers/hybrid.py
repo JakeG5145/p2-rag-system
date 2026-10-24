@@ -28,17 +28,18 @@ def rrf(rankings, k=RRF_K):
 
 
 class Hybrid:
+    rrf_k = RRF_K  # the fusion constant; an ablation such as hybrid_k10 changes only this
+
     def __init__(self, corpus, cfg):
         self.bm25 = build_system("bm25", corpus, cfg)
         self.dense = build_system("dense", corpus, cfg)
         self.n_docs = len(corpus.docs)
         self.n_chunks = len(self.dense.chunks)
 
-    @staticmethod
-    def _fuse(bm25_hits, dense_hits, k):
+    def _fuse(self, bm25_hits, dense_hits, k):
         keyword = [i for i, s in bm25_hits if s > 0]
         semantic = [i for i, _ in dense_hits]
-        return rrf([keyword, semantic])[:k]
+        return rrf([keyword, semantic], k=self.rrf_k)[:k]
 
     def search(self, text: str, k: int) -> list[tuple[str, float]]:
         return self._fuse(self.bm25.search(text, self.n_docs), self.dense.search(text, self.n_docs), k)

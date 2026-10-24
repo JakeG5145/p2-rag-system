@@ -1980,6 +1980,226 @@
               "reading": "claude higher"
             }
           }
+        },
+        "ablation/hybrid_k10": {
+          "run": "runs/own/ablation/hybrid_k10.trec",
+          "mean": {
+            "recall@10": 0.760661,
+            "mrr@10": 0.761944,
+            "ndcg@10": 0.71961
+          },
+          "by_class": {
+            "paraphrase": {
+              "n": 17,
+              "recall@10": 0.607049,
+              "mrr@10": 0.660784,
+              "ndcg@10": 0.578147
+            },
+            "mixed": {
+              "n": 6,
+              "recall@10": 0.916667,
+              "mrr@10": 0.770833,
+              "ndcg@10": 0.809796
+            },
+            "identifier": {
+              "n": 7,
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 0.985859
+            }
+          },
+          "per_query": {
+            "h01": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "h02": {
+              "recall@10": 0.5,
+              "mrr@10": 0.125,
+              "ndcg@10": 0.193426
+            },
+            "h03": {
+              "recall@10": 0.333333,
+              "mrr@10": 0.166667,
+              "ndcg@10": 0.16716
+            },
+            "h04": {
+              "recall@10": 0.666667,
+              "mrr@10": 0.5,
+              "ndcg@10": 0.477624
+            },
+            "h05": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "h06": {
+              "recall@10": 0.0,
+              "mrr@10": 0.0,
+              "ndcg@10": 0.0
+            },
+            "h07": {
+              "recall@10": 0.333333,
+              "mrr@10": 1.0,
+              "ndcg@10": 0.469279
+            },
+            "h08": {
+              "recall@10": 0.25,
+              "mrr@10": 0.166667,
+              "ndcg@10": 0.139056
+            },
+            "h09": {
+              "recall@10": 0.714286,
+              "mrr@10": 1.0,
+              "ndcg@10": 0.744057
+            },
+            "h10": {
+              "recall@10": 0.0,
+              "mrr@10": 0.0,
+              "ndcg@10": 0.0
+            },
+            "c01": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c02": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 0.901013
+            },
+            "c03": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c04": {
+              "recall@10": 0.8,
+              "mrr@10": 1.0,
+              "ndcg@10": 0.824824
+            },
+            "c05": {
+              "recall@10": 0.75,
+              "mrr@10": 0.2,
+              "ndcg@10": 0.404297
+            },
+            "c06": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c07": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c08": {
+              "recall@10": 0.555556,
+              "mrr@10": 1.0,
+              "ndcg@10": 0.685819
+            },
+            "c09": {
+              "recall@10": 0.666667,
+              "mrr@10": 1.0,
+              "ndcg@10": 0.765361
+            },
+            "c10": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c11": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c12": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c13": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c14": {
+              "recall@10": 0.25,
+              "mrr@10": 0.2,
+              "ndcg@10": 0.15102
+            },
+            "c15": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c16": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c17": {
+              "recall@10": 1.0,
+              "mrr@10": 0.5,
+              "ndcg@10": 0.66535
+            },
+            "c18": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c19": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            },
+            "c20": {
+              "recall@10": 1.0,
+              "mrr@10": 1.0,
+              "ndcg@10": 1.0
+            }
+          },
+          "by_origin": {
+            "hand": {
+              "n": 10,
+              "recall@10": 0.479762,
+              "mrr@10": 0.495833,
+              "ndcg@10": 0.41906
+            },
+            "claude": {
+              "n": 20,
+              "recall@10": 0.901111,
+              "mrr@10": 0.895,
+              "ndcg@10": 0.869884
+            }
+          },
+          "origin_diff": {
+            "recall@10": {
+              "mean_diff": -0.421349,
+              "ci95": [
+                -0.645839,
+                -0.189681
+              ],
+              "reading": "claude higher"
+            },
+            "mrr@10": {
+              "mean_diff": -0.399167,
+              "ci95": [
+                -0.676708,
+                -0.104979
+              ],
+              "reading": "claude higher"
+            },
+            "ndcg@10": {
+              "mean_diff": -0.450824,
+              "ci95": [
+                -0.685168,
+                -0.196139
+              ],
+              "reading": "claude higher"
+            }
+          }
         }
       },
       "pairs": [
@@ -2234,6 +2454,174 @@
           "sd_diff": 0.190999,
           "mdd80": 0.097695,
           "reading": "rerank higher"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "bm25",
+          "metric": "recall@10",
+          "n": 30,
+          "mean_diff": 0.050661,
+          "ci95": [
+            -0.030556,
+            0.143254
+          ],
+          "sd_diff": 0.243609,
+          "mdd80": 0.124605,
+          "reading": "not distinguishable"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "bm25",
+          "metric": "mrr@10",
+          "n": 30,
+          "mean_diff": 0.055278,
+          "ci95": [
+            -0.069167,
+            0.184167
+          ],
+          "sd_diff": 0.360372,
+          "mdd80": 0.184329,
+          "reading": "not distinguishable"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "bm25",
+          "metric": "ndcg@10",
+          "n": 30,
+          "mean_diff": 0.06543,
+          "ci95": [
+            -0.015878,
+            0.154942
+          ],
+          "sd_diff": 0.242629,
+          "mdd80": 0.124104,
+          "reading": "not distinguishable"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "dense",
+          "metric": "recall@10",
+          "n": 30,
+          "mean_diff": 0.075,
+          "ci95": [
+            0.022222,
+            0.141667
+          ],
+          "sd_diff": 0.171412,
+          "mdd80": 0.087677,
+          "reading": "ablation/hybrid_k10 higher"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "dense",
+          "metric": "mrr@10",
+          "n": 30,
+          "mean_diff": 0.087222,
+          "ci95": [
+            -0.001667,
+            0.192222
+          ],
+          "sd_diff": 0.278592,
+          "mdd80": 0.142499,
+          "reading": "not distinguishable"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "dense",
+          "metric": "ndcg@10",
+          "n": 30,
+          "mean_diff": 0.06527,
+          "ci95": [
+            0.006958,
+            0.130422
+          ],
+          "sd_diff": 0.176412,
+          "mdd80": 0.090234,
+          "reading": "ablation/hybrid_k10 higher"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "hybrid",
+          "metric": "recall@10",
+          "n": 30,
+          "mean_diff": 0.003968,
+          "ci95": [
+            -0.047619,
+            0.056349
+          ],
+          "sd_diff": 0.149782,
+          "mdd80": 0.076613,
+          "reading": "not distinguishable"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "hybrid",
+          "metric": "mrr@10",
+          "n": 30,
+          "mean_diff": 0.020556,
+          "ci95": [
+            -0.005556,
+            0.060562
+          ],
+          "sd_diff": 0.098157,
+          "mdd80": 0.050207,
+          "reading": "not distinguishable"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "hybrid",
+          "metric": "ndcg@10",
+          "n": 30,
+          "mean_diff": 0.011063,
+          "ci95": [
+            -0.016536,
+            0.040935
+          ],
+          "sd_diff": 0.081718,
+          "mdd80": 0.041798,
+          "reading": "not distinguishable"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "rerank",
+          "metric": "recall@10",
+          "n": 30,
+          "mean_diff": -0.049259,
+          "ci95": [
+            -0.094444,
+            -0.013333
+          ],
+          "sd_diff": 0.117568,
+          "mdd80": 0.060136,
+          "reading": "rerank higher"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "rerank",
+          "metric": "mrr@10",
+          "n": 30,
+          "mean_diff": -0.128056,
+          "ci95": [
+            -0.256118,
+            -0.011111
+          ],
+          "sd_diff": 0.349017,
+          "mdd80": 0.178521,
+          "reading": "rerank higher"
+        },
+        {
+          "a": "ablation/hybrid_k10",
+          "b": "rerank",
+          "metric": "ndcg@10",
+          "n": 30,
+          "mean_diff": -0.100338,
+          "ci95": [
+            -0.162794,
+            -0.042228
+          ],
+          "sd_diff": 0.171573,
+          "mdd80": 0.087759,
+          "reading": "rerank higher"
         }
       ],
       "origins": {
@@ -2284,6 +2672,58 @@
             "n": 20,
             "mean": 0.877002
           }
+        }
+      },
+      "ablation_queries": {
+        "ablation/hybrid_k10": {
+          "system": "hybrid_k10",
+          "base": "hybrid",
+          "rule": "BASE = \"hybrid\" in p2/retrievers/hybrid_k10.py",
+          "helped": [
+            {
+              "qid": "h07",
+              "class": "paraphrase",
+              "origin": "hand",
+              "base_rr": 0.5,
+              "rr": 1.0,
+              "change": 0.5
+            },
+            {
+              "qid": "h08",
+              "class": "paraphrase",
+              "origin": "hand",
+              "base_rr": 0.0,
+              "rr": 0.166667,
+              "change": 0.166667
+            },
+            {
+              "qid": "c14",
+              "class": "paraphrase",
+              "origin": "claude",
+              "base_rr": 0.125,
+              "rr": 0.2,
+              "change": 0.075
+            }
+          ],
+          "hurt": [
+            {
+              "qid": "h03",
+              "class": "paraphrase",
+              "origin": "hand",
+              "base_rr": 0.25,
+              "rr": 0.166667,
+              "change": -0.083333
+            },
+            {
+              "qid": "h02",
+              "class": "mixed",
+              "origin": "hand",
+              "base_rr": 0.166667,
+              "rr": 0.125,
+              "change": -0.041667
+            }
+          ],
+          "unchanged": 25
         }
       }
     }
@@ -2791,6 +3231,12 @@
       ],
       "answers_pairs": [],
       "local": [
+        {
+          "file": "traces/retrieval/own-own-ablation-hybrid_k10.jsonl",
+          "system": "hybrid_k10",
+          "spans": 30,
+          "seconds": 0.1419
+        },
         {
           "file": "traces/retrieval/own-own-bm25.jsonl",
           "system": "bm25",
