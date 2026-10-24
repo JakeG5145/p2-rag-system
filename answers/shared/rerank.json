@@ -1,0 +1,317 @@
+{
+  "label": "rerank",
+  "system": "rerank",
+  "corpus": "shared",
+  "model": "sonnet",
+  "chunking": {
+    "words": 300,
+    "overlap": 50
+  },
+  "top": 5,
+  "prompt_sha256": "4418806497c799a1",
+  "repeat": null,
+  "answers": [
+    {
+      "qid": "a01",
+      "question": "Within how many minutes must a mine operator call MSHA after an accident that kills a miner?",
+      "kind": "in",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-50.10#0",
+        "cfr30-50.20-5#0",
+        "cfr30-50.2#1",
+        "cfr30-50.11#0",
+        "cfr30-50.12#0"
+      ],
+      "answer": "The operator must contact MSHA within 15 minutes once the operator knows or should know that an accident involving a death has occurred.",
+      "not_found": false,
+      "claims": [
+        {
+          "text": "The operator must contact MSHA immediately and within 15 minutes once it knows or should know of an accident involving a death of an individual at the mine.",
+          "chunk_id": "cfr30-50.10#0",
+          "quote": "The operator shall immediately contact MSHA at once without delay and within 15 minutes at the toll-free number, 1-800-746-1553, once the operator knows or should know that an accident has occurred involving:"
+        }
+      ],
+      "seconds": 4.0,
+      "input_tokens": 7048,
+      "output_tokens": 276,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a02",
+      "question": "What minimum incombustible content must the combined dust in an underground coal mine keep where no methane is present?",
+      "kind": "in",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-75.403#0",
+        "cfr30-75.403-1#0",
+        "cfr30-75.2#3",
+        "cfr30-75.402#0",
+        "cfr30-75.2#0"
+      ],
+      "answer": "The incombustible content of the combined coal dust, rock dust, and other dust must be not less than 80 percent. The methane increase applies only where methane is present.",
+      "not_found": false,
+      "claims": [
+        {
+          "text": "The incombustible content of the combined coal dust, rock dust, and other dust must be not less than 80 percent.",
+          "chunk_id": "cfr30-75.403#0",
+          "quote": "maintained in such quantities that the incombustible content of the combined coal dust, rock dust, and other dust shall be not less than 80 percent."
+        },
+        {
+          "text": "The percentage is increased only where methane is present in a ventilating current (0.4 percent for each 0.1 percent of methane).",
+          "chunk_id": "cfr30-75.403#0",
+          "quote": "Where methane is present in any ventilating current, the percent of incombustible content of such combined dust shall be increased 0.4 percent for each 0.1 percent of methane."
+        }
+      ],
+      "seconds": 3.7,
+      "input_tokens": 3371,
+      "output_tokens": 378,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a03",
+      "question": "How long must the self-rescue device given to each underground coal miner be able to protect that person?",
+      "kind": "in",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-75.1714#0",
+        "cfr30-75.1714-1#0",
+        "cfr30-57.15030#0",
+        "cfr30-57.15031#0",
+        "cfr30-75.1714-3#0"
+      ],
+      "answer": "The device must be adequate to protect the person for 1 hour or longer.",
+      "not_found": false,
+      "claims": [
+        {
+          "text": "Under 30 CFR 75.1714, the self-rescue device made available to each underground miner must be adequate to protect the person for 1 hour or longer.",
+          "chunk_id": "cfr30-75.1714#0",
+          "quote": "an approved self-rescue device or devices which is adequate to protect such person for 1 hour or longer."
+        }
+      ],
+      "seconds": 3.2,
+      "input_tokens": 3020,
+      "output_tokens": 230,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a04",
+      "question": "How often must an underground metal or nonmetal mine hold evacuation drills?",
+      "kind": "in",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-57.4361#0",
+        "cfr30-57.4363#0",
+        "cfr30-56.4331#0",
+        "cfr30-57.4331#0",
+        "cfr30-75.1504#0"
+      ],
+      "answer": "Underground metal or nonmetal mines must hold mine evacuation drills at least once every six months. The drills must be held for each shift, at some time other than a shift change.",
+      "not_found": false,
+      "claims": [
+        {
+          "text": "Underground metal/nonmetal mines must hold mine evacuation drills at least once every six months.",
+          "chunk_id": "cfr30-57.4361#0",
+          "quote": "At least once every six months, mine evacuation drills shall be held"
+        },
+        {
+          "text": "The drills must be held for each shift at some time other than a shift change.",
+          "chunk_id": "cfr30-57.4361#0",
+          "quote": "Be held for each shift at some time other than a shift change and involve all persons underground;"
+        }
+      ],
+      "seconds": 4.4,
+      "input_tokens": 6414,
+      "output_tokens": 306,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a05",
+      "question": "How many hours of training must a new underground miner receive before being assigned to work duties?",
+      "kind": "in",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-48.25#0",
+        "cfr30-48.5#0",
+        "cfr30-48.5#3",
+        "cfr30-48.25#3",
+        "cfr30-48.2#1"
+      ],
+      "answer": "A new underground miner must receive no less than 40 hours of training before being assigned to work duties. Approximately 8 hours of that training must be given at the minesite.",
+      "not_found": false,
+      "claims": [
+        {
+          "text": "Each new miner must receive no less than 40 hours of training before being assigned to work duties.",
+          "chunk_id": "cfr30-48.5#0",
+          "quote": "Each new miner shall receive no less than 40 hours of training as prescribed in this section before such miner is assigned to work duties."
+        },
+        {
+          "text": "Approximately 8 hours of the training must be given at the minesite.",
+          "chunk_id": "cfr30-48.5#0",
+          "quote": "approximately 8 hours of training shall be given at the minesite."
+        }
+      ],
+      "seconds": 4.6,
+      "input_tokens": 7338,
+      "output_tokens": 417,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a06",
+      "question": "What is the permissible exposure level for noise at a mine, as an 8-hour average?",
+      "kind": "in",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-62.130#0",
+        "cfr30-62.101#0",
+        "cfr30-62.110#0",
+        "cfr30-62.140#0",
+        "cfr30-62.101#2"
+      ],
+      "answer": "The provided chunks do not state the permissible exposure level (PEL) value.",
+      "not_found": true,
+      "claims": [],
+      "seconds": 8.2,
+      "input_tokens": 7521,
+      "output_tokens": 465,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a07",
+      "question": "How high must berms or guardrails be on the banks of roadways at metal and nonmetal mines?",
+      "kind": "in",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-57.9300#0",
+        "cfr30-56.9300#0",
+        "cfr30-57.2#1",
+        "cfr30-77.1605#0",
+        "cfr30-77.1006#0"
+      ],
+      "answer": "At metal and nonmetal mines, berms or guardrails must be at least mid-axle height of the largest self-propelled mobile equipment which usually travels the roadway. The same requirement appears in both 30 CFR 56.9300 (surface) and 57.9300 (underground).",
+      "not_found": false,
+      "claims": [
+        {
+          "text": "Under 30 CFR 56.9300, berms or guardrails must be at least mid-axle height of the largest self-propelled mobile equipment that usually travels the roadway.",
+          "chunk_id": "cfr30-56.9300#0",
+          "quote": "Berms or guardrails shall be at least mid-axle height of the largest self-propelled mobile equipment which usually travels the roadway."
+        },
+        {
+          "text": "Under 30 CFR 57.9300, the same height requirement applies: at least mid-axle height of the largest self-propelled mobile equipment that usually travels the roadway.",
+          "chunk_id": "cfr30-57.9300#0",
+          "quote": "Berms or guardrails shall be at least mid-axle height of the largest self-propelled mobile equipment which usually travels the roadway."
+        }
+      ],
+      "seconds": 5.0,
+      "input_tokens": 7642,
+      "output_tokens": 447,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a08",
+      "question": "For how many hours must the breathable air in an approved refuge alternative sustain each person?",
+      "kind": "in",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-7.506#0",
+        "cfr30-75.1507#2",
+        "cfr30-75.1507#1",
+        "cfr30-75.1507#0",
+        "cfr30-7.503#1"
+      ],
+      "answer": "The breathable air must sustain each person for 96 hours. (The ERP rules also allow 48 hours for a refuge alternative if advance arrangements are made for additional supplies.)",
+      "not_found": false,
+      "claims": [
+        {
+          "text": "Within the refuge alternative, the breathable air must sustain each person for 96 hours.",
+          "chunk_id": "cfr30-7.506#0",
+          "quote": "The breathable air sustains each person for 96 hours,"
+        }
+      ],
+      "seconds": 5.3,
+      "input_tokens": 4798,
+      "output_tokens": 230,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a09",
+      "question": "What must a written bloodborne pathogens exposure control plan contain under OSHA?",
+      "kind": "out",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-57.5005t#0",
+        "cfr30-56.5005t#0",
+        "cfr30-60.14#1",
+        "cfr30-57.5005#0",
+        "cfr30-56.5005#0"
+      ],
+      "answer": "The provided chunks don't cover OSHA's bloodborne pathogens exposure control plan. They cover MSHA rules on airborne contaminants and respiratory protection programs.",
+      "not_found": true,
+      "claims": [],
+      "seconds": 3.1,
+      "input_tokens": 4997,
+      "output_tokens": 155,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a10",
+      "question": "At what depth does OSHA require a construction trench to have a protective system such as shoring or a trench box?",
+      "kind": "out",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-77.1900#0",
+        "cfr30-56.19110#0",
+        "cfr30-57.19110#0",
+        "cfr30-56.7013#0",
+        "cfr30-77.1503#0"
+      ],
+      "answer": "The provided chunks do not say at what depth OSHA requires a construction trench to have a protective system.",
+      "not_found": true,
+      "claims": [],
+      "seconds": 3.2,
+      "input_tokens": 5938,
+      "output_tokens": 128,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a11",
+      "question": "What FAA certification does a pilot need to fly a drone over a mine site?",
+      "kind": "out",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-46.11#0",
+        "cfr30-46.2#1",
+        "cfr30-48.29#0",
+        "cfr30-48.6#1",
+        "cfr30-48.6#2"
+      ],
+      "answer": "The provided chunks do not say what FAA certification a pilot needs to fly a drone over a mine site.",
+      "not_found": true,
+      "claims": [],
+      "seconds": 3.4,
+      "input_tokens": 7674,
+      "output_tokens": 130,
+      "model": "claude-sonnet-5-5"
+    },
+    {
+      "qid": "a12",
+      "question": "When does a mine need an EPA stormwater discharge permit for runoff from its site?",
+      "kind": "out",
+      "system": "rerank",
+      "retrieved": [
+        "cfr30-77.216-2#1",
+        "cfr30-47.92#0",
+        "cfr30-47.11#1",
+        "cfr30-75.1716#0",
+        "cfr30-75.1716-2#0"
+      ],
+      "answer": "The provided chunks do not say when a mine needs an EPA stormwater discharge permit.",
+      "not_found": true,
+      "claims": [],
+      "seconds": 3.0,
+      "input_tokens": 7211,
+      "output_tokens": 126,
+      "model": "claude-sonnet-5-5"
+    }
+  ]
+}

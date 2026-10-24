@@ -25,7 +25,9 @@ The minimum detectable difference is the smallest gap this many queries could re
 
 For each of `dense`, `hybrid` and `rerank`, one or two sentences: the embedding model, how documents were chunked, what was fused and how, how many candidates the reranker saw, and anything you changed from the 12 and 13 lab code.
 
-TODO: describe your three systems.
+Dense:Uses bge-small-en-v1.5, documents were chunked into 300-word chunks with 50 words of overlap, and scored by cosine similarity. An article scores as its best chunk and there are no changes from lab 12 except working on chunks instead of whole articles.
+Hybrid: Uses a reciptrocal rank fusion of bm25 and dense with k=60 over full rankings. The only change from lab 13 is bm25 results with score 0 are dropped.
+Rerank: Uses claude sonnet to reorder 20 canidates interleaved from bm25 and dense's rankings. Each canidate is shown as its title and best-fit chunk. The changes from lab 13 were the canidates came from bm25 and dense interleaved and not hybrid and that it is the best fitting chunk instead of the first 600 characters.
 
 ### Practice queries (20)
 
@@ -113,14 +115,16 @@ Which differences are distinguishable from zero and which are not?
 What is the minimum detectable difference at 20 queries, and what does that say about any gap smaller than it?
 Which claim from lecture 12 or 13 did your numbers support, and which did they leave open?
 
-TODO: write what the practice-query intervals let you claim.
+The difference between rerank and bm25, dense, and hybrid are all distinguishable from zero. The difference between dense and bm25, hybrid and bm25, and hybrid and dense are not distinguishable from zero.  The minimal detectable difference at 20 queries ranges from 0.192 to 0.412 depending on the pair. Any gap smaller than the MDD would not be distinguishable. My numbers support the claim from lecture 12 that no retriever wins everywhere, because bm25 wins on identifier queries and dense wins on paraphrase queries. Also, they support the claim from lab 13 that a reranker helps, the accuracy of retrieval, because the reranker consistently outperformed the the methods without one. My numbers leave the claim from lecture 14 that fusion typically beats just bm25 and dense, because the gap was not distinguishable from zero.
 
 ---
 
 ## 2. Stage 1 - cited answers on the 12 shared questions
 
 <!-- p2:begin answers -->
-_No answers files yet: run `uv run p2 answer --corpus shared --system NAME`, then `uv run p2 score`._
+| Label | System | Verified (in) | 95% interval | not_found (in) | Declined (out) | 95% interval | Quotes found |
+| --- | --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| rerank | rerank | 7 of 8 (88%) | [0.529, 0.978] | 1 of 8 (12%) | 4 of 4 (100%) | [0.510, 1.000] | 11 of 11 |
 <!-- p2:end answers -->
 
 Which system answered, and why that one?
@@ -142,7 +146,7 @@ What is it, where did it come from, how many documents and how many megabytes, a
 Name the one or two documents you were least sure about and what you decided.
 Say which of the allowed sources in the brief it comes from.
 
-TODO: describe your corpus and its license basis.
+My corpus is 601 articles on dog-breeds from wikipedia (wikipedia is an allowed source in the breif), it is 3.3 megabytes, and the license is CC BY-SA 4.0. The document I was least sure about was the dingo, which is an animal that is arguably a type of dog, but is not a dog breed in a traditional sense. I decided to keep the dingo in the corpus, because I believe it is relevant enough, due to dingos being the descendants of domestic dogs.
 
 ### The gold set
 
@@ -389,6 +393,7 @@ Every trace in traces/ that records a Claude call:
 
 | Trace | System | Spans | Claude calls | Saved | Input tokens | Output tokens | Seconds | Input per span | Output per span | Seconds per span |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| traces/answers-rerank.jsonl | rerank | 12 | 24 | 4 | 291,214 | 4,602 | 94.5 | 24,268 | 384 | 7.9 |
 | traces/own-own-rerank.jsonl | rerank | 30 | 30 | 2 | 535,266 | 2,730 | 126.9 | 17,842 | 91 | 4.2 |
 | traces/shared-practice-rerank.jsonl | rerank | 20 | 20 | 20 | 307,870 | 2,044 | 96.0 | 15,394 | 102 | 4.8 |
 | traces/shared-practice-rerank_c10.jsonl | rerank_c10 | 20 | 20 | 2 | 213,880 | 1,420 | 80.1 | 10,694 | 71 | 4.0 |
