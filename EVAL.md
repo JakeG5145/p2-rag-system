@@ -262,6 +262,8 @@ TODO: write what your own-corpus intervals let you claim.
 
 Change one thing and keep everything else the same.
 Write your hypothesis here before you run it, in one sentence with a direction: "I expect X to raise MRR@10 on my corpus because Y."
+
+I expect changing the fusion setting to k=10 will improve the MRR@10 on my corpus, because most of the gold set questions only have 1 or very few answers, so it would be better to favor the top few articles during fusion.
 The run file for it lives in `runs/own/ablation/`.
 
 <!-- p2:begin own-ablation -->
@@ -279,7 +281,7 @@ What did you change, what happened, and does the interval support the claim you 
 If the result is not distinguishable, say what size of effect your gold set could have seen.
 Read the queries at the top of each list in the second table, and say whether your change explains them.
 
-TODO: write the ablation: the one change, the hypothesis, the result and the claim.
+I will change the fusion setting. I expect changing the fusion setting to k=10 will improve the MRR@10 on my corpus, because most of the gold set questions only have 1 or very few answers, so it would be better to favor the top few articles during fusion.
 
 ---
 
