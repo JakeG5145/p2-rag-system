@@ -25,9 +25,9 @@ The minimum detectable difference is the smallest gap this many queries could re
 
 For each of `dense`, `hybrid` and `rerank`, one or two sentences: the embedding model, how documents were chunked, what was fused and how, how many candidates the reranker saw, and anything you changed from the 12 and 13 lab code.
 
-Dense:Uses bge-small-en-v1.5, documents were chunked into 300-word chunks with 50 words of overlap, and scored by cosine similarity. An article scores as its best chunk and there are no changes from lab 12 except working on chunks instead of whole articles.
-Hybrid: Uses a reciptrocal rank fusion of bm25 and dense with k=60 over full rankings. The only change from lab 13 is bm25 results with score 0 are dropped.
-Rerank: Uses claude sonnet to reorder 20 canidates interleaved from bm25 and dense's rankings. Each canidate is shown as its title and best-fit chunk. The changes from lab 13 were the canidates came from bm25 and dense interleaved and not hybrid and that it is the best fitting chunk instead of the first 600 characters.
+Dense: Uses bge-small-en-v1.5, documents were chunked into 300-word chunks with 50 words of overlap, and scored by cosine similarity. An article scores as its best chunk and there are no changes from lab 12 except working on chunks instead of whole articles.
+Hybrid: Uses a reciprocal rank fusion of bm25 and dense with k=60 over full rankings. The only change from lab 13 is bm25 results with score 0 are dropped.
+Rerank: Uses claude sonnet to reorder 20 candidates interleaved from bm25 and dense's rankings. Each candidate is shown as its title and best-fit chunk. The changes from lab 13 were the candidates came from bm25 and dense interleaved and not hybrid and that it is the best fitting chunk instead of the first 600 characters.
 
 ### Practice queries (20)
 
@@ -115,7 +115,7 @@ Which differences are distinguishable from zero and which are not?
 What is the minimum detectable difference at 20 queries, and what does that say about any gap smaller than it?
 Which claim from lecture 12 or 13 did your numbers support, and which did they leave open?
 
-The difference between rerank and bm25, dense, and hybrid are all distinguishable from zero. The difference between dense and bm25, hybrid and bm25, and hybrid and dense are not distinguishable from zero.  The minimal detectable difference at 20 queries ranges from 0.192 to 0.412 depending on the pair. Any gap smaller than the MDD would not be distinguishable. My numbers support the claim from lecture 12 that no retriever wins everywhere, because bm25 wins on identifier queries and dense wins on paraphrase queries. Also, they support the claim from lab 13 that a reranker helps, the accuracy of retrieval, because the reranker consistently outperformed the the methods without one. My numbers leave the claim from lecture 14 that fusion typically beats just bm25 and dense, because the gap was not distinguishable from zero.
+The difference between rerank and bm25, dense, and hybrid are all distinguishable from zero. The difference between dense and bm25, hybrid and bm25, and hybrid and dense are not distinguishable from zero.  The minimal detectable difference at 20 queries ranges from 0.192 to 0.412 depending on the pair. Any gap smaller than the MDD would usually not be distinguishable. My numbers support the claim from lecture 13 that a reranker helps the accuracy of retrieval, because the reranker consistently outperformed the methods without one. Also, my numbers leave the claim from lecture 13 that fusion typically beats just bm25 and dense open, because the gap was not distinguishable from zero.
 
 ---
 
@@ -134,7 +134,55 @@ Then read three in-corpus answers that `uv run p2 verify` passed.
 For each one, open the cited chunk and say whether the quote really supports the claim next to it.
 The check proves a quote is a real piece of the chunk and cannot prove that it supports the claim, so this reading is the part only you can do.
 
-TODO: write your answer choices and your three-answer audit.
+I used the rerank system, because it typically gives the most relevant responses and I believe the extra cost is negligible for only 12 questions. I did not make any changes to prompts/answer.txt, so the verified and declined share didn't move. 
+
+
+**a02.** What minimum incombustible content must the combined dust in an underground coal mine keep where no methane is present?
+
+- Claim a02-c1: "The incombustible content of the combined coal dust, rock dust, and other dust must be not less than 80 percent."
+  Quote, from `cfr30-75.403#0`: "maintained in such quantities that the incombustible content of the combined coal dust, rock dust, and other dust shall be not less than 80 percent."
+- Claim a02-c2: "The percentage is increased only where methane is present in a ventilating current (0.4 percent for each 0.1 percent of methane)."
+  Quote, from `cfr30-75.403#0`: "Where methane is present in any ventilating current, the percent of incombustible content of such combined dust shall be increased 0.4 percent for each 0.1 percent of methane."
+
+Cited chunk `cfr30-75.403#0` (the whole section):
+
+> Where rock dust is required to be applied, it shall be distributed upon the top, floor, and sides of all underground areas of a coal mine and maintained in such quantities that the incombustible content of the combined coal dust, rock dust, and other dust shall be not less than 80 percent. Where methane is present in any ventilating current, the percent of incombustible content of such combined dust shall be increased 0.4 percent for each 0.1 percent of methane.
+
+The first quote supports the claim that the incombustible content of dust must not be less than 80% typically. The second quote clearly supports the claim that the incombustible content would need to be higher if there was methane present. These two claims can be used to answer the original question.
+
+**a04.** How often must an underground metal or nonmetal mine hold evacuation drills?
+
+- Claim a04-c1: "Underground metal/nonmetal mines must hold mine evacuation drills at least once every six months."
+  Quote, from `cfr30-57.4361#0`: "At least once every six months, mine evacuation drills shall be held"
+- Claim a04-c2: "The drills must be held for each shift at some time other than a shift change."
+  Quote, from `cfr30-57.4361#0`: "Be held for each shift at some time other than a shift change and involve all persons underground;"
+
+Cited chunk `cfr30-57.4361#0` (the whole section):
+
+> (a) At least once every six months, mine evacuation drills shall be held to assess the ability of all persons underground to reach the surface or other designated points of safety within the time limits of the self-rescue devices that would be used during an actual emergency.
+> (b) The evacuation drills shall—
+> (1) Be held for each shift at some time other than a shift change and involve all persons underground;
+> (2) Involve activation of the fire alarm system; and
+> (3) Include evacuation of all persons from their work areas to the surface or to designated central evacuation points.
+> (c) At the completion of each drill, the mine operator shall certify the date and the time the evacuation began and ended. Certifications shall be retained for at least one year after each drill.
+
+The first quote supports the claim that mine evacuation drills must be held every 6 months. The second quote supports the claim that the drill must be held during a shift at a time other than a shift change, although that claim is not necessary to answer the original question.
+
+**a07.** How high must berms or guardrails be on the banks of roadways at metal and nonmetal mines?
+
+- Claim a07-c1: "Under 30 CFR 56.9300, berms or guardrails must be at least mid-axle height of the largest self-propelled mobile equipment that usually travels the roadway."
+  Quote, from `cfr30-56.9300#0`: "Berms or guardrails shall be at least mid-axle height of the largest self-propelled mobile equipment which usually travels the roadway."
+- Claim a07-c2: "Under 30 CFR 57.9300, the same height requirement applies: at least mid-axle height of the largest self-propelled mobile equipment that usually travels the roadway."
+  Quote, from `cfr30-57.9300#0`: "Berms or guardrails shall be at least mid-axle height of the largest self-propelled mobile equipment which usually travels the roadway."
+
+Cited chunks `cfr30-56.9300#0` (surface mines) and `cfr30-57.9300#0` (underground mines) both open with the same lines; (d) in each lists roadways where berms are not required:
+
+> (a) Berms or guardrails shall be provided and maintained on the banks of roadways where a drop-off exists of sufficient grade or depth to cause a vehicle to overturn or endanger persons in equipment.
+> (b) Berms or guardrails shall be at least mid-axle height of the largest self-propelled mobile equipment which usually travels the roadway.
+> (c) Berms may have openings to the extent necessary for roadway drainage.
+> (d) Where elevated roadways are infrequently traveled and used only by service or maintenance vehicles, berms or guardrails are not required when all of the following are met: [five conditions follow: locked gates, warning signs, delineators, a posted speed limit, and road traction]
+
+The first quote supports the claim that berms and guardrails must be mid-axle height of the largest mobile equipment. The second quote supports the same claim using a different rule.
 
 ---
 
@@ -146,7 +194,7 @@ What is it, where did it come from, how many documents and how many megabytes, a
 Name the one or two documents you were least sure about and what you decided.
 Say which of the allowed sources in the brief it comes from.
 
-My corpus is 601 articles on dog-breeds from wikipedia (wikipedia is an allowed source in the breif), it is 3.3 megabytes, and the license is CC BY-SA 4.0. The document I was least sure about was the dingo, which is an animal that is arguably a type of dog, but is not a dog breed in a traditional sense. I decided to keep the dingo in the corpus, because I believe it is relevant enough, due to dingos being the descendants of domestic dogs.
+My corpus is 601 articles on dog-breeds from wikipedia (wikipedia is an allowed source in the brief), it is 3.3 megabytes, and the license is CC BY-SA 4.0. The document I was least sure about was the dingo, which is an animal that is arguably a type of dog, but is not a dog breed in a traditional sense. I decided to keep the dingo in the corpus, because I believe it is relevant enough, due to dingos being the descendants of domestic dogs.
 
 ### The gold set
 
@@ -154,8 +202,8 @@ How many queries, how many with origin `hand` and how many with origin `claude`,
 How did you decide that a document is relevant: write your relevance rule in two or three sentences, the way the brief does for the shared corpus.
 How did you find candidates (the systems' top 10, a keyword search, reading), and did you read every document before you labeled it?
 Your labels are binary (`rel` 1) unless you say otherwise: if you use graded labels, declare the scale here, for example 2 means the document answers the query fully and 1 means it helps.
-TODO: still needs to be finished
-There are 30 queries, 10 of which with the origin 'hand' and 20 with the origin 'claude'. Query Classes go here! An article is considered relevant if it states the dog breed has a trait which is asked for in the query (unless the question specifically asks for it, saying a dog has the highest trait in its weight class or region is not enough to be relevant). Several answers can be relevent unless the question only has one right answer (if a question is ambiguous, multiple answers can be given, even if it is a question that asks for one right answer). Unless the question overtly asks for one or the other average and the record held by one dog both count, for example the smallest dog question can be answered by chihuahua (the smallest on average) and yorkshire terrier (the smallest recorded).
+
+There are 30 queries, 10 of which with the origin 'hand' and 20 with the origin 'claude'. There are 7 identifier, 6 mixed, and 17 paraphrase queries, I wanted there to be a representation of all of the query types in the gold set. An article is considered relevant if it states the dog breed has a trait which is asked for in the query (unless the question specifically asks for it, saying a dog has the highest trait in its weight class or region is not enough to be relevant). Several answers can be relevant unless the question only has one right answer (if a question is ambiguous, multiple answers can be given, even if it is a question that asks for one right answer). Unless the question overtly asks for one or the other average and the record held by one dog both count, for example the smallest dog question can be answered by chihuahua (the smallest on average) and yorkshire terrier (the smallest recorded). The candidates came from the top 10 of bm25, dense, and hybrid in addition to a keyword search. I used binary labels and did not read every document before I labelled it, I used google and my preexisting knowledge to find which articles were actually relevant, checked their wikipedia articles to ensure they met the requirements to answer the questions, and then gave them a 1.
 
 ---
 
@@ -277,7 +325,7 @@ Which differences are distinguishable and which are not, at your gold-set size?
 Do the `hand` queries and the `claude` queries tell the same story?
 Did your prediction in `DECISIONS.md` prompt 1 hold?
 
-TODO: write what your own-corpus intervals let you claim.
+The difference between rerank and hybrid, bm25, and dense are distinguishable with rerank beating all three except for the difference between hybrid and rerank in Recall@10 which is not distinguishable. The difference between hybrid and dense in Recall@10 is distinguishable and favors hybrid. All other differences between hybrid, dense, and bm25 are not distinguishable. The 'hand' and 'claude' queries agree on distinguishability on MRR@10 for all differences except for rerank and hybrid, which is distinguishable for hand queries but not claude and hybrid and dense which is distinguishable for claude but not for hand queries (This data is not in the tables above, it was found using the paired-interval function on each group separately). Also, bm25, dense, and hybrid scored distinguishably higher on claude queries, while rerank was not distinguishable between hand and claude on MRR@10. My prediction that rerank would be the best option generally was correct, however my prediction that bm25 would always perform the worst was wrong, with dense often scoring lower than it.
 
 ---
 
@@ -329,7 +377,7 @@ What did you change, what happened, and does the interval support the claim you 
 If the result is not distinguishable, say what size of effect your gold set could have seen.
 Read the queries at the top of each list in the second table, and say whether your change explains them.
 
-I will change the fusion setting. I expect changing the fusion setting to k=10 will improve the MRR@10 on my corpus, because most of the gold set questions only have 1 or very few answers, so it would be better to favor the top few articles during fusion.
+I will change the fusion setting. I expect changing the fusion setting to k=10 will improve the MRR@10 on my corpus, because most of the gold set questions only have 1 or very few answers, so it would be better to favor the top few articles during fusion. The MRR@10 for hybrid_k10 improved slightly (+0.021) over the original hybrid with k=60, however the difference is so small that it is not distinguishable, so we can conclude that my hypothesis is not supported by this data. The size of effect my gold set could have seen would be 0.05 or more, because the MDD is 0.05. The query which was helped the most was h07, dogs with the best sense of smell, which had multiple answers, because a less relevant answer (Hamiltonstövare) was getting placed in first place when k=60, but it placed lower when k=10. It hurt h03 the most, smallest dog breed, because one of the relevant answers (Chihuahua) fell from 4th to 6th, because one system or another ranked a less relevant answer too highly which was overrepresented when k=10 compared to k=60. These results are consistent with the change to the fusion setting, but do not support my hypothesis, because reducing k in this case did not reliably increase the accuracy when looking for fewer answers.
 
 ---
 
@@ -341,8 +389,13 @@ Then sort the failures by cause, for example a vocabulary mismatch, near-duplica
 
 | qid | what the best system returned | what was relevant | cause | what you would try |
 |---|---|---|---|---|
+| h06 | black-norwegian-elkhound, dingo, cimarron-uruguayo | basenji (not in the top 10 of any system) | The biggest issue with this query is that the wikipedia article doesn't use the term "can't bark" instead calling it a "barkless dog" while the other articles say the dog doesn't bark (despite it still being capable of barking unlike the basenji)| rephrasing the query could fix this issue by asking which dog is barkless, or increasing the amount of candidates the reranker gets to 40 or more to allow the reranker to catch the basenji. I would know it works in basenji is given to the reranker.|
+| h10 | german-shepherd, belgian-shepherd, rottweiler | newfoundland-dog, labrador-retriever, leonberger, cantabrian-water-dog (none in the top 10 of any system) | this was caused by a vocabulary mismatch, I used the term life guard instead of lifeguard, leading to incorrect results  | I would change the query to lifeguard, although this is a good test of the rag system, showing that minor typos can completely ruin its effectiveness. I would know it works if any of the relevant dogs appeared in the top 10. |
+| h07 | sabueso-espanol, tarsus-catalburun, segugio-italiano-a-pelo-forte, hamiltonstovare, then beagle at 5th | beagle (5th), bloodhound and basset-hound (not in the top 10) | many scent hounds will mention that they have a good sense of smell but the article does not say they are the best at it, resulting in less relevant articles often rising to the top | I would try using bigger chunks to more likely catch any vocabulary saying that they have one of the best senses of smell. I would know it works if the three dogs with the best senses of smell get ranked higher than the other scent hounds. |
+| c14 | norwegian-lundehund (1st), king-charles-spaniel, cesky-terrier | norwegian-lundehund (1st), beauceron, briard and pyrenean-mountain-dog (not in the top 10) | most articles mention "double dewclaw" instead of "extra toes" so the vocabulary did not match leading to all but the norwegian-lundehund being left out | I would change the query to include "double dewclaw" to catch the vocabulary mismatch. I would know it works if the relevant dogs other than the norwegian lundehund were in the top 10.|
+| h03 | chihuahua-dog-breed (1st), pomeranian-dog, miniature-pinscher | chihuahua-dog-breed (1st), russian-toy and yorkshire-terrier (not in the top 10) | The query is slightly ambiguous and many articles do not overtly say that they are the smallest dog breed, with many articles mentioning they are small which showed up too high in the ranking | I would increase the chunk size, because it cut out the important information that a yorkshire terrier was the smallest dog ever recorded, which would have likely increased its ranking. I would know it works if the russian toy and/or yorkshire terrier got into the top 10. |
 
-TODO: add one row for each failure you analyzed, and write two or three sentences on the pattern you see across them.
+Four of the five causes were vocabulary mismatch (h06, h10, c14, and partially h07) this is an issue that would likely be incredibly prevalent when a rag system was deployed, because in order to perfectly match your query with the answer's vocabulary, you would likely need to already know the answer, defeating much of the point. Most of the failures were hand queries, compared to claude queries, despite there being more claude queries, this is likely because many of claude's queries were written very specifically to get one particular answer, while mine were more open ended. To fix these issues, I likely should have expanded my queries with more specification and included synonyms, although in actual use of a system like this few users would, so another option would be to increase the amount of candidates that are passed to rerank so it can more easily deal with vocabulary mismatch and specificity, although that would be expensive.
 
 ---
 
@@ -355,7 +408,25 @@ Did the winner change between the shared corpus and yours?
 Why, or why not: what is different about the two collections (document length, vocabulary, identifiers, near-duplicates, how the queries were written), and which of your explanations did you test and which are guesses?
 Say what 20 queries on one side and your gold-set size on the other cannot support.
 
-TODO: write the cross-corpus comparison.
+The two tables below are copied from the `shared-practice` and `shared-practice-classes` tables in section 1 and the `own` and `own-classes` tables in section 4.
+
+| System | Shared Recall@10 | Shared MRR@10 | Shared nDCG@10 | Own Recall@10 | Own MRR@10 | Own nDCG@10 |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| bm25 | 0.625 | 0.507 | 0.518 | 0.710 | 0.707 | 0.654 |
+| dense | 0.558 | 0.562 | 0.480 | 0.686 | 0.675 | 0.654 |
+| hybrid | 0.617 | 0.471 | 0.456 | 0.757 | 0.741 | 0.709 |
+| rerank | 0.833 | 0.900 | 0.846 | 0.810 | 0.890 | 0.820 |
+
+Shared: 20 practice queries on 2,484 documents. Own: 30 queries on 601 documents.
+
+| MRR@10 | Shared identifier (n=7) | Shared paraphrase (n=7) | Shared mixed (n=6) | Own identifier (n=7) | Own paraphrase (n=17) | Own mixed (n=6) |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| bm25 | 0.810 | 0.000 | 0.746 | 0.929 | 0.647 | 0.617 |
+| dense | 0.333 | 0.714 | 0.653 | 1.000 | 0.517 | 0.742 |
+| hybrid | 0.514 | 0.152 | 0.792 | 1.000 | 0.622 | 0.778 |
+| rerank | 1.000 | 0.714 | 1.000 | 1.000 | 0.806 | 1.000 |
+
+The winner did not change between the shared corpus and mine, it is still rerank. Hybrid did much better on my corpus compared to the shared corpus. The reason hybrid likely did better on my corpus is higher word overlap between queries and articles on average compared to the shared corpus which favors hybrid (This was tested earlier in EVAL.md which shows that the word overlap for my corpus is 0.85-0.88 while the word overlap for the shared corpus is .11-.95 from README.md). Also, my corpus used breed names as identifiers, which dense understands unlike CFR section numbers which are numeric, so hybrid was much more likely to succeed my gold-set because it wasn't being thrown off by poor dense results (this is a guess). My gold-set is 30 queries, so the MDD is lower than the shared set (0.12-.26) and a difference smaller than that would usually not be distinguishable without more queries. The 20 queries from the shared set result in an MDD of 0.19-0.41, so it has larger gaps that are not distinguishable without more queries.
 
 ---
 
@@ -444,7 +515,11 @@ _No stretch runs yet (stretch option 5): `uv run p2 run --corpus own --queries e
 
 ### Your stretch
 
-Write the five things here.
+1. Cost and latency.
+2. I ran a cheaper version of the reranker rerank_c10, which reranks 10 candidates instead of 20, on the practice queries. Files: p2/retrievers/rerank_c10.py, runs/shared/rerank_c10.practice.trec, and traces/shared-practice-rerank_c10.jsonl. 
+3. stretch-cost in section 8.
+4. The interval allows us to claim that on these 20 practice queries, the MRR@10 and Recall@10 are not distinguishable, while the number of tokens was reduced by ~31% and the average seconds per query reduced from 4.8 to 4.0 seconds (~17% faster). We cannot claim that a reranker with 20 candidates is not distinguishable from one with 10 candidates in general, only for these specific practice queries. This suggests that we can use a reduced number of candidates to save on cost without significant performance degradation, on the shared corpus, however if we ask questions significantly different from those in the gold-set, there is a chance it could lose more performance than these numbers suggest. I would make this trade for high-volume searches where cost is more important, I would not use it for low volume, high importance searches where accuracy is more important.
+5. I would run the reduced candidate reranker on my dog breed corpus to see if it would also reduce the cost while not significantly affecting the quality of responses. I could figure out if it worked if the MRR@10 and Recall@10 were not distinguishable between the original reranker and the cheaper one and the number of tokens used was reduced.
 
 ---
 

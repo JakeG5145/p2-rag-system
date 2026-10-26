@@ -41,7 +41,7 @@ If you rejected the alternative without measuring it, say why that was a fair ca
 "There was no alternative" is not an answer.
 Find the fork.
 
-TODO: your answer to prompt 2.
+I chose to give the reranker a combination of bm25 and dense's top candidates instead of giving it hybrid's top candidates. I chose this, because the practice queries gave really poor results from hybrid due to poor dense results throwing off the more accurate bm25 results, so I decided to use this method to hedge against that issue. By taking this option, I gave up using the hybrid candidates for the reranker, which could be more accurate for some queries. I did not measure both options for my corpus, only the practice corpus, because it would have required me to run several more claude calls when I was limited on usage. I believe it was reasonable to reject the alternative because a combination of bm25 and dense performed far better in the practice queries compared to hybrid (on the practice queries bm25+dense resulted in 18/20 correct answers being in the top 20 candidates while hybrid only gave 15/20).
 
 ---
 
@@ -57,7 +57,7 @@ What did you do instead?
 If it genuinely never happened, say so plainly, and then say what you would have had to check in order to notice.
 Being honest here costs you far less than a story you cannot defend when you record your video.
 
-TODO: your answer to prompt 3.
+When claude was writing its part of the gold set it wrote almost all of its questions as very obvious descriptions of a single dog breed, but I wanted my gold set to have a few more open ended queries. I noticed this by reading its queries after it wrote them. I gave the AI my preferences and had it rewrite some of them, then I read the new ones to ensure they met my preferences.
 
 ---
 
@@ -69,7 +69,7 @@ It could be a mean over a small query class, a difference whose interval include
 What would have to be true for you to trust it?
 Did you do anything to test it, and what did that show?
 
-TODO: your answer to prompt 4.
+I do not fully trust the 1.0 MRR on rerank for the identifier and mixed class practice queries, because claude will give different answers every time and it is not likely to always answer correctly. I would have to run many trials all of which result in a 1.0 MRR to trust it. I did not test it to avoid using too many claude calls, because to fully confirm this number I would need to make a lot of calls.
 
 ---
 
@@ -80,4 +80,4 @@ One thing in your system, your corpus or your gold set that is not right, not fi
 What would you do next, and how would you find out whether it matters?
 Name the file, the query or the document where someone could look.
 
-TODO: your answer to prompt 5.
+In my gold-set I misspelled lifeguard as life guard, by the time I caught this issue I had already done most of the assignment and would have had to redo a large portion of it with how it would have changed the data. If I had more time I would redo it to remove this typo, but it does introduce some interesting data of how a minor typo can greatly change the accuracy of a RAG system. I could find out if it mattered by checking if the accuracy on that question improved when the typo was fixed. It is in eval/own/queries.tsv in query h10.
